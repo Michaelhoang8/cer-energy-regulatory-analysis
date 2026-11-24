@@ -1,0 +1,65 @@
+{
+  "captured_at_utc": "2026-11-24T21:01:05.710546+00:00",
+  "application": "Microsoft Power BI Desktop",
+  "project": "powerbi/native/CER_Energy_Analysis.pbip",
+  "capture_method": "Unaltered window screenshots after loading generated project and refreshing embedded data",
+  "screenshots": [
+    {
+      "file": "08-powerbi-flow.png",
+      "sha256": "c7b336305c472df876a69384b2f07fda519ee3000c42d27df985e45be8aec470"
+    },
+    {
+      "file": "09-powerbi-incidents.png",
+      "sha256": "729df2727d7cd41f8114087782cb9ea0becc406d81ca97d8ad366778abf33b0b"
+    },
+    {
+      "file": "10-powerbi-quality.png",
+      "sha256": "5f104e5504acc03214ac92a70975639735d7a92d1aac967172eebf107a8dc701"
+    }
+  ],
+  "project_sha256": {
+    "powerbi/native/CER_Energy_Analysis.pbip": "94bab937def9bf25df98ab0ed98af653f0309a3a826ee0c3096486a9825d186a",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Flow/page.json": "3b69fae6bc16623982d6bc5320d880af60fd7693245a1532ec4bddcf7f674b8c",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Flow/visuals/v0000000000000000001/visual.json": "90c53c9e2c3c3be99f2caee61d7dd1aace9bc894db906e3d6a97bbe46424ab1f",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Flow/visuals/v0000000000000000002/visual.json": "b432e56a5f2f9ce301e1d580fffe693d2e52c9f0b48b7b8da0982b60c965292c",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Flow/visuals/v0000000000000000003/visual.json": "0d8abf73e0ba03fffa1993758fc0359eda8cacb21c7bd38a568cbc9c58f0546a",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Flow/visuals/v0000000000000000004/visual.json": "9e18d12484b7ace7e332935bd39923a0e84c21c1ce7b141a9976b0503ec52b36",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Flow/visuals/v0000000000000000005/visual.json": "be70b1452da48a4e6cf1c54947d64250a520805243af466f9571a07a2ae26c77",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Flow/visuals/v0000000000000000006/visual.json": "628bfa63bc406fe301427396a60e89397b0d67525d14dca441720542f887e41e",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Flow/visuals/v0000000000000000007/visual.json": "7e1a613184d56be5f65901330e45b958dd59aa8c54e2f25af5454fd4bdf96972",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Flow/visuals/v0000000000000000008/visual.json": "3b7b2a683babd21da26f98b02178309529964fdd498106a59c6b893613533b3d",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Flow/visuals/v0000000000000000009/visual.json": "c4d1c5d76d44e6f64d41b582a38fda1008b6edf6be03fe290545e6d247209e4e",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Flow/visuals/v0000000000000000010/visual.json": "5b497ddf196931c5a51eb20809a46a7f51d5ff89dd6dab01885465e2489a5ca9",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Flow/visuals/v0000000000000000011/visual.json": "46b62c8bab2a1478eda6212d8e46f88ec484fedbb0999cf0192df615b0ad1f83",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Incidents/page.json": "c7492eff935ce7f5c8c4c6f7fd9b0c7d9fe1ea78925e2411e44c4c0cfb1bdf19",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Incidents/visuals/v0000000000000000012/visual.json": "dfeaee09fa1d585fdcb39328285b637e0b6de71016d76ca8879725b9d62211e9",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Incidents/visuals/v0000000000000000013/visual.json": "6752cb322ab42d46942448f2c182889061054ae67bfefee16b4dad817488758a",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Incidents/visuals/v0000000000000000014/visual.json": "d392e48a91d97736e371783cce222c28891b4c36b9f61effac2936686f78c04d",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Incidents/visuals/v0000000000000000015/visual.json": "40fa57e5824b61de5367e737f152c00baa510903c6ebcb7a941003dc5de169a8",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Incidents/visuals/v0000000000000000016/visual.json": "a388ea90d95e0fe0f2371d8e0cf70c9357b23ed1dbf3177055b3831701d796d4",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Incidents/visuals/v0000000000000000017/visual.json": "da5916a6e758d6c7784b9980274177012ca4c083c16dab9307ed812c71860344",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Incidents/visuals/v0000000000000000018/visual.json": "307711676749dc78e9bf69bc0cd6b4e8bf94ae7a98ceac4b38726426cae804ab",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Incidents/visuals/v0000000000000000019/visual.json": "2b2a898ed59aef824a2c94d40203c1567e3e6a8eab39a0a0beacc046960dfea7",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Incidents/visuals/v0000000000000000020/visual.json": "4b543c91b6d7160519a7f75f65432f863da70ab70f88b1bfb1dc6a3c19e947d5",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Incidents/visuals/v0000000000000000021/visual.json": "8813781b5db35aa72ec749d977f05f5202325dbc40d19264ffe5a4c1339e5eba",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Incidents/visuals/v0000000000000000022/visual.json": "5a96f92da49812aa9592f31612e944d966e079dfe4bd6ea4ac90500c28d88a40",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/pages.json": "165a0677348361f5d0056433fc8a4d91b77882588f0ef47212434756b3aedba4",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Quality/page.json": "0a534bcdd5179455d5e966c9b4f842d23e6e9529c436c9c96d6f9c3df5685fa1",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Quality/visuals/v0000000000000000023/visual.json": "384414e21dde1dba9f8b74d72e4662b7ec36bc326f61b9f613ec909faf2ad43c",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Quality/visuals/v0000000000000000024/visual.json": "a1d81f0bb408f8985081426eaccdc902cb2a663badbdb56b97b167bb417dd408",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Quality/visuals/v0000000000000000025/visual.json": "7e282227ff14277f78f711f85cd4b1103464861051b475385feb5a017e63b320",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Quality/visuals/v0000000000000000026/visual.json": "343ea7ec42caf12118ca5381729180330e42b25a8cc0dfe7bec8301f407de4a6",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Quality/visuals/v0000000000000000027/visual.json": "016794a5d8567f2a9422d33702e1ce4f737a0a45ab06461fa494c2ea1de6b261",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Quality/visuals/v0000000000000000028/visual.json": "c8dc2752b52a70c1d4eba20a12b367903a38d7dee014c980014ab440ff586bba",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Quality/visuals/v0000000000000000029/visual.json": "36d7e5e7b570101b1f06aea1f8a9c85fb46293e6df48cac8ea34bac45f162fb1",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Quality/visuals/v0000000000000000030/visual.json": "8dee5381070b975f2b2c6491ef0cb2dcaad6881e8fe78cec969f27d88de22a2f",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Quality/visuals/v0000000000000000031/visual.json": "e7c9d0b3c04648f92b4349063ea822ed4e8c2d3e38b71b57219ef50f8528252c",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Quality/visuals/v0000000000000000032/visual.json": "00939984801dc7094a3387eb909de738fafa915afac67efacb684dc9f12157d0",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/pages/Quality/visuals/v0000000000000000033/visual.json": "f5ba4cd0cbe6f5a96094261fbb644ca9fedc15e4d3819d4e9ab2e8839213c2ab",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/report.json": "eee00b1b94b9cff5f8dfffead3e0cc588311d64a0e6adacaa63e7516c5c007c9",
+    "powerbi/native/CER_Energy_Analysis.Report/definition/version.json": "0f9f217a60981bf882d7b1963977fc72cc051078df8512b46caa607aff2e5220",
+    "powerbi/native/CER_Energy_Analysis.Report/definition.pbir": "319a0a54ad8380e9fe91efcb03e4f3bbed243363253d052a7d2e7e7b6136d418",
+    "powerbi/native/CER_Energy_Analysis.SemanticModel/definition.pbism": "0e8736f650108f1a5c9c70060f1f3eeedb4d4642d2b21668bd6c9ab11854f31b",
+    "powerbi/native/CER_Energy_Analysis.SemanticModel/model.bim": "6be179e6a3316fc95cdbd8bb9029753bebffba72f8e1d3b081c17ad402d49591"
+  }
+}

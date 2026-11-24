@@ -19,6 +19,8 @@ if __name__=='__main__':
     native=json.loads((ROOT/'docs/screenshots/native_manifest.json').read_text(encoding='utf-8'))
     for item in native['screenshots']:
         check(ROOT/'docs/screenshots'/item['file'],item['sha256'])
+    for file,sha in native['project_sha256'].items():
+        check(ROOT/file,sha)
     excel=json.loads((ROOT/'reports/excel_validation.json').read_text(encoding='utf-8'))
     check(ROOT/excel['input_file'],excel['input_sha256'])
     check(ROOT/excel['workbook'],excel['workbook_sha256'])

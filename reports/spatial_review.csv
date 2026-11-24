@@ -1,0 +1,44 @@
+IncidentId,SourceRow,Province,Latitude,Longitude,SpatialStatus,SpatialProvince
+INC2012-024,157,Saskatchewan,50.66225,-110.01655,mismatch_review,Alberta
+INC2013-181,208,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-182,209,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-183,210,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-184,211,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-185,212,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-186,213,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-187,214,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-188,215,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-189,216,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-190,217,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-191,218,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-192,219,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-193,220,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-194,221,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-195,222,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-196,223,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2015-029,246,Manitoba,51.45,-107.38611111,mismatch_review,Saskatchewan
+INC2016-032,273,Ontario,42.2878692,-83.09267014,outside_generalized_boundary,
+INC2017-032,307,Alberta,61.843302,-121.33647,mismatch_review,Northwest Territories
+INC2017-184,345,Alberta,53.50812123,-122.60789532,mismatch_review,British Columbia
+INC2022-191,470,British Columbia,55.368501,-119.927951,mismatch_review,Alberta
+INC2017-136,525,Manitoba,50.48066052,-105.86703804,mismatch_review,Saskatchewan
+INC2018-162,559,Quebec,45.03339107,-71.50002623,outside_generalized_boundary,
+INC2022-032,643,British Columbia,48.50668,-120.929811,outside_generalized_boundary,
+INC2023-069,684,Alberta,51.941474,-119.34584,mismatch_review,British Columbia
+INC2013-197,917,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-198,918,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-199,919,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-200,920,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-201,921,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2016-053,983,Ontario,44.99889836,-74.74072784,outside_generalized_boundary,
+INC2016-140,1026,British Columbia,49.3062,-114.03907,mismatch_review,Alberta
+INC2020-133,1162,Quebec,45.03339107,-71.50002623,outside_generalized_boundary,
+INC2026-062,1300,Maine,47.358606,-68.325542,unknown_reported_province,New Brunswick
+INC2017-024,1585,Alberta,56.85842,-120.04474,mismatch_review,British Columbia
+INC2017-093,1596,Alberta,49.32403226,-102.29636323,mismatch_review,Saskatchewan
+INC2018-132,1644,Alberta,49.0,-120.0,mismatch_review,British Columbia
+INC2022-175,1758,Alberta,52.890556,-118.738333,mismatch_review,British Columbia
+INC2013-177,2007,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-178,2008,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-179,2009,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba
+INC2013-180,2010,Saskatchewan,49.753998,-101.238688,mismatch_review,Manitoba

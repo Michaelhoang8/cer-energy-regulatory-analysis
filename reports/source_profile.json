@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "flow_source_rows": 279055,
+    "flow_accepted_rows": 279055,
+    "incident_rows": 2039,
+    "point_count": 44,
+    "default_point": "8276358786769155",
+    "default_year": 2025,
+    "downloaded_at": "2026-11-24T20:42:37.987508+00:00",
+    "flow_first_date": "2006-01-01",
+    "flow_last_date": "2026-09-30",
+    "incident_last_date": "2026-10-22",
+    "reconciliation": {
+      "matched": 2039
+    },
+    "monthly_source_excluded_rows": 206,
+    "source_urls": {
+      "flow": "https://open.canada.ca/data/en/dataset/dc343c43-a592-4a27-8ee7-c77df56afb34",
+      "incidents": "https://open.canada.ca/data/en/dataset/7dffedc4-23fa-440c-a36d-adf5a6cc09f1",
+      "boundaries": "https://open.canada.ca/data/en/dataset/443e98f0-a461-45ab-8fa2-57645b3efbb5"
+    },
+    "notes": [
+      "Daily natural-gas series only; Brunswick monthly source is excluded from daily coverage.",
+      "Rates are 1000 m3/day. GJ/day is retained separately in the audit database and never mixed with volume.",
+      "Utilization uses paired observations with positive capacity; it may exceed 100%.",
+      "Key points can measure the same physical gas. Never sum rates across points as network throughput.",
+      "Incidents cover CER-regulated facilities across products, a different population from these seven gas systems.",
+      "No incident-to-throughput risk rate or causal relationship is inferred.",
+      "GIS comparisons use generalized boundaries and approximate points; spatial differences are review items."
+    ]
+  },
+  "sources": [
+    {
+      "file": "ngtl.csv",
+      "rows": 59225,
+      "encoding": "utf-8-sig",
+      "frequency": "daily"
+    },
+    {
+      "file": "tcpl-mainline.csv",
+      "rows": 108135,
+      "encoding": "utf-8-sig",
+      "frequency": "daily"
+    },
+    {
+      "file": "foothills.csv",
+      "rows": 15156,
+      "encoding": "utf-8-sig",
+      "frequency": "daily"
+    },
+    {
+      "file": "alliance.csv",
+      "rows": 15156,
+      "encoding": "utf-8-sig",
+      "frequency": "daily"
+    },
+    {
+      "file": "westcoast.csv",
+      "rows": 51071,
+      "encoding": "utf-8-sig",
+      "frequency": "daily"
+    },
+    {
+      "file": "tqm.csv",
+      "rows": 15156,
+      "encoding": "utf-8-sig",
+      "frequency": "daily"
+    },
+    {
+      "file": "mnp.csv",
+      "rows": 15156,
+      "encoding": "utf-8-sig",
+      "frequency": "daily"
+    },
+    {
+      "file": "incidents.csv",
+      "rows": 2039,
+      "encoding": "cp1252"
+    },
+    {
+      "file": "incidents_map.csv",
+      "rows": 2039,
+      "encoding": "cp1252"
+    }
+  ],
+  "raw_quality": {
+    "conflicting_key_rows_quarantined": 0
+  },
+  "incident_quality": {},
+  "source_files_verified": 14
+}

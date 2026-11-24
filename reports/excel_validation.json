@@ -1,0 +1,730 @@
+{
+  "input_file": "reports/dashboard_data.json",
+  "input_sha256": "70cfa6a1aacc979afc87adfa1a4d579687f25a5e24cfb5a4123d891a22b0c32f",
+  "year": 2025,
+  "point_id": "8276358786769155",
+  "point_label": "NGTL System · East Gate · east & southeast",
+  "source_download_date": "2026-11-24T20:42:37.987508+00:00",
+  "monthly_rows": 12,
+  "incident_rows": 68,
+  "quality_rows": 19,
+  "formula_checks": [
+    {
+      "name": "2025-01 coverage",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "2025-01 mean throughput",
+      "passed": true,
+      "actual": 162747.14095712904,
+      "expected": 162747.14095712904
+    },
+    {
+      "name": "2025-01 mean capacity",
+      "passed": true,
+      "actual": 144093,
+      "expected": 144093
+    },
+    {
+      "name": "2025-01 utilization",
+      "passed": true,
+      "actual": 1.1294590365744972,
+      "expected": 1.1294590365744972
+    },
+    {
+      "name": "2025-02 coverage",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "2025-02 mean throughput",
+      "passed": true,
+      "actual": 164202.07684409642,
+      "expected": 164202.07684409642
+    },
+    {
+      "name": "2025-02 mean capacity",
+      "passed": true,
+      "actual": 144093,
+      "expected": 144093
+    },
+    {
+      "name": "2025-02 utilization",
+      "passed": true,
+      "actual": 1.139556236903225,
+      "expected": 1.139556236903225
+    },
+    {
+      "name": "2025-03 coverage",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "2025-03 mean throughput",
+      "passed": true,
+      "actual": 155664.6657056581,
+      "expected": 155664.6657056581
+    },
+    {
+      "name": "2025-03 mean capacity",
+      "passed": true,
+      "actual": 144093,
+      "expected": 144093
+    },
+    {
+      "name": "2025-03 utilization",
+      "passed": true,
+      "actual": 1.080306924733735,
+      "expected": 1.080306924733735
+    },
+    {
+      "name": "2025-04 coverage",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "2025-04 mean throughput",
+      "passed": true,
+      "actual": 145654.34882869667,
+      "expected": 145654.34882869667
+    },
+    {
+      "name": "2025-04 mean capacity",
+      "passed": true,
+      "actual": 136504,
+      "expected": 136504
+    },
+    {
+      "name": "2025-04 utilization",
+      "passed": true,
+      "actual": 1.0670335582012005,
+      "expected": 1.0670335582012005
+    },
+    {
+      "name": "2025-05 coverage",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "2025-05 mean throughput",
+      "passed": true,
+      "actual": 143535.72927164513,
+      "expected": 143535.72927164513
+    },
+    {
+      "name": "2025-05 mean capacity",
+      "passed": true,
+      "actual": 136504,
+      "expected": 136504
+    },
+    {
+      "name": "2025-05 utilization",
+      "passed": true,
+      "actual": 1.0515129906203857,
+      "expected": 1.0515129906203857
+    },
+    {
+      "name": "2025-06 coverage",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "2025-06 mean throughput",
+      "passed": true,
+      "actual": 134216.67079842667,
+      "expected": 134216.67079842667
+    },
+    {
+      "name": "2025-06 mean capacity",
+      "passed": true,
+      "actual": 136504,
+      "expected": 136504
+    },
+    {
+      "name": "2025-06 utilization",
+      "passed": true,
+      "actual": 0.9832435005452344,
+      "expected": 0.9832435005452344
+    },
+    {
+      "name": "2025-07 coverage",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "2025-07 mean throughput",
+      "passed": true,
+      "actual": 132485.10191825806,
+      "expected": 132485.10191825806
+    },
+    {
+      "name": "2025-07 mean capacity",
+      "passed": true,
+      "actual": 136504,
+      "expected": 136504
+    },
+    {
+      "name": "2025-07 utilization",
+      "passed": true,
+      "actual": 0.9705583859686021,
+      "expected": 0.9705583859686021
+    },
+    {
+      "name": "2025-08 coverage",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "2025-08 mean throughput",
+      "passed": true,
+      "actual": 133151.04854709678,
+      "expected": 133151.04854709678
+    },
+    {
+      "name": "2025-08 mean capacity",
+      "passed": true,
+      "actual": 136504,
+      "expected": 136504
+    },
+    {
+      "name": "2025-08 utilization",
+      "passed": true,
+      "actual": 0.9754369728879504,
+      "expected": 0.9754369728879504
+    },
+    {
+      "name": "2025-09 coverage",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "2025-09 mean throughput",
+      "passed": true,
+      "actual": 123976.16052434666,
+      "expected": 123976.16052434666
+    },
+    {
+      "name": "2025-09 mean capacity",
+      "passed": true,
+      "actual": 136504,
+      "expected": 136504
+    },
+    {
+      "name": "2025-09 utilization",
+      "passed": true,
+      "actual": 0.9082236456392975,
+      "expected": 0.9082236456392975
+    },
+    {
+      "name": "2025-10 coverage",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "2025-10 mean throughput",
+      "passed": true,
+      "actual": 138378.4541588742,
+      "expected": 138378.4541588742
+    },
+    {
+      "name": "2025-10 mean capacity",
+      "passed": true,
+      "actual": 136504,
+      "expected": 136504
+    },
+    {
+      "name": "2025-10 utilization",
+      "passed": true,
+      "actual": 1.0137318625012761,
+      "expected": 1.0137318625012761
+    },
+    {
+      "name": "2025-11 coverage",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "2025-11 mean throughput",
+      "passed": true,
+      "actual": 150500.12691881333,
+      "expected": 150500.12691881333
+    },
+    {
+      "name": "2025-11 mean capacity",
+      "passed": true,
+      "actual": 144689,
+      "expected": 144689
+    },
+    {
+      "name": "2025-11 utilization",
+      "passed": true,
+      "actual": 1.040162879823714,
+      "expected": 1.040162879823714
+    },
+    {
+      "name": "2025-12 coverage",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "2025-12 mean throughput",
+      "passed": true,
+      "actual": 162612.255009929,
+      "expected": 162612.255009929
+    },
+    {
+      "name": "2025-12 mean capacity",
+      "passed": true,
+      "actual": 144689,
+      "expected": 144689
+    },
+    {
+      "name": "2025-12 utilization",
+      "passed": true,
+      "actual": 1.123874344351879,
+      "expected": 1.123874344351879
+    },
+    {
+      "name": "Weighted annual utilization",
+      "passed": true,
+      "actual": 1.041320983600335,
+      "expected": 1.041320983600335
+    },
+    {
+      "name": "Weighted annual throughput",
+      "passed": true,
+      "actual": 145517.4893873137,
+      "expected": 145517.4893873137
+    },
+    {
+      "name": "Annual date coverage",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "Alberta incident counts",
+      "passed": true,
+      "actual": [
+        27,
+        27,
+        0,
+        1,
+        0
+      ],
+      "expected": [
+        27,
+        27,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "British Columbia incident counts",
+      "passed": true,
+      "actual": [
+        19,
+        19,
+        0,
+        8,
+        0
+      ],
+      "expected": [
+        19,
+        19,
+        0,
+        8,
+        0
+      ]
+    },
+    {
+      "name": "Manitoba incident counts",
+      "passed": true,
+      "actual": [
+        3,
+        3,
+        0,
+        1,
+        0
+      ],
+      "expected": [
+        3,
+        3,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "New Brunswick incident counts",
+      "passed": true,
+      "actual": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "expected": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Newfoundland and Labrador incident counts",
+      "passed": true,
+      "actual": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "expected": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Northwest Territories incident counts",
+      "passed": true,
+      "actual": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "expected": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nova Scotia incident counts",
+      "passed": true,
+      "actual": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "expected": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nunavut incident counts",
+      "passed": true,
+      "actual": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "expected": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Ontario incident counts",
+      "passed": true,
+      "actual": [
+        12,
+        12,
+        0,
+        1,
+        0
+      ],
+      "expected": [
+        12,
+        12,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "Prince Edward Island incident counts",
+      "passed": true,
+      "actual": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "expected": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Quebec incident counts",
+      "passed": true,
+      "actual": [
+        5,
+        5,
+        0,
+        1,
+        0
+      ],
+      "expected": [
+        5,
+        5,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "Saskatchewan incident counts",
+      "passed": true,
+      "actual": [
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "expected": [
+        2,
+        2,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Yukon incident counts",
+      "passed": true,
+      "actual": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "expected": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Incident total",
+      "passed": true,
+      "actual": 68,
+      "expected": 68
+    },
+    {
+      "name": "Initial unresolved rules",
+      "passed": true,
+      "actual": 10,
+      "expected": 10
+    },
+    {
+      "name": "Closing a review reduces unresolved count",
+      "passed": true,
+      "actual": 9,
+      "expected": 9
+    },
+    {
+      "name": "Closed count responds to review edit",
+      "passed": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "Blank review status remains unresolved",
+      "passed": true,
+      "actual": 10,
+      "expected": 10
+    },
+    {
+      "name": "Blank paired-capacity denominator stays unavailable",
+      "passed": true,
+      "actual": "n.a.",
+      "expected": "n.a."
+    },
+    {
+      "name": "Incomplete annual capacity denominator stays unavailable",
+      "passed": true,
+      "actual": "n.a.",
+      "expected": "n.a."
+    },
+    {
+      "name": "Zero paired-capacity denominator stays unavailable",
+      "passed": true,
+      "actual": "n.a.",
+      "expected": "n.a."
+    },
+    {
+      "name": "Blank expected-day input stays unavailable",
+      "passed": true,
+      "actual": "n.a.",
+      "expected": "n.a."
+    },
+    {
+      "name": "Restored annual utilization",
+      "passed": true,
+      "actual": 1.041320983600335,
+      "expected": 1.041320983600335
+    },
+    {
+      "name": "Restored unresolved rules",
+      "passed": true,
+      "actual": 10,
+      "expected": 10
+    },
+    {
+      "name": "Workbook formula error scan",
+      "passed": true,
+      "actual": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+      "expected": "Cell search matched 0 entries."
+    }
+  ],
+  "error_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "inspections": [
+    {
+      "sheetName": "Flow review",
+      "inspection": "{\"kind\":\"table\",\"sheet\":\"Flow review\",\"address\":\"A6:G19\",\"rows\":14,\"cols\":7,\"values\":[[\"Month\",\"Observed days\",\"Expected days\",\"Date coverage\",\"Mean throughput\",\"Mean capacity\",\"Utilization\"],[45658,31,31,1,162747.14095712904,144093,1.1294590365744972],[45689,28,28,1,164202.07684409642,144093,1.139556236903225],[45717,31,31,1,155664.6657056581,144093,1.080306924733735],[45748,30,30,1,145654.34882869667,136504,1.0670335582012005],[45778,31,31,1,143535.72927164513,136504,1.0515129906203857],[45809,30,30,1,134216.67079842667,136504,0.9832435005452344],[45839,31,31,1,132485.10191825806,136504,0.9705583859686021],[45870,31,31,1,133151.04854709678,136504,0.9754369728879504],[45901,30,30,1,123976.16052434666,136504,0.9082236456392975],[45931,31,31,1,138378.4541588742,136504,1.0137318625012761],[45962,30,30,1,150500.12691881333,144689,1.040162879823714],[45992,31,31,1,162612.255009929,144689,1.123874344351879],[\"Weighted year\",365,365,1,145517.4893873137,139743.16438356164,1.041320983600335]]}"
+    },
+    {
+      "sheetName": "Incident review",
+      "inspection": "{\"kind\":\"table\",\"sheet\":\"Incident review\",\"address\":\"A6:G20\",\"rows\":15,\"cols\":7,\"values\":[[\"Province / territory\",\"Incidents\",\"Closed\",\"Open\",\"Significant\",\"GIS review\",\"Closed share\"],[\"Alberta\",27,27,0,1,0,1],[\"British Columbia\",19,19,0,8,0,1],[\"Manitoba\",3,3,0,1,0,1],[\"New Brunswick\",0,0,0,0,0,\"n.a.\"],[\"Newfoundland and Labrador\",0,0,0,0,0,\"n.a.\"],[\"Northwest Territories\",0,0,0,0,0,\"n.a.\"],[\"Nova Scotia\",0,0,0,0,0,\"n.a.\"],[\"Nunavut\",0,0,0,0,0,\"n.a.\"],[\"Ontario\",12,12,0,1,0,1],[\"Prince Edward Island\",0,0,0,0,0,\"n.a.\"],[\"Quebec\",5,5,0,1,0,1],[\"Saskatchewan\",2,2,0,0,0,1],[\"Yukon\",0,0,0,0,0,\"n.a.\"],[\"Total\",68,68,0,12,0,1]]}"
+    },
+    {
+      "sheetName": "Quality review",
+      "inspection": "{\"kind\":\"table\",\"sheet\":\"Quality review\",\"address\":\"A3:B4\",\"rows\":2,\"cols\":2,\"values\":[[\"Unresolved affected rules\",10],[\"Rules with findings closed\",0]]}"
+    }
+  ],
+  "render_files": [
+    "docs/screenshots/excel-flow.png",
+    "docs/screenshots/excel-incidents.png",
+    "docs/screenshots/excel-quality.png",
+    "docs/screenshots/excel-flow-inputs.png",
+    "docs/screenshots/excel-incident-inputs.png"
+  ],
+  "workbook": "excel/cer-energy-review.xlsx",
+  "limitations": [
+    "Generated, recalculated and inspected with @oai/artifact-tool; desktop Microsoft Excel was not run.",
+    "Review status is a local analyst workflow field and does not change CER records."
+  ],
+  "export_verification": {
+    "sheet_count": 3,
+    "chart_count": 2,
+    "formula_count": 201,
+    "error_cells": [],
+    "validations": [
+      {
+        "type": "list",
+        "sqref": "E8:E26"
+      }
+    ],
+    "chart_series": [
+      {
+        "chart": "xl/drawings/charts/chart1.xml",
+        "formulas": [
+          "'Flow review'!$N$29:$N$40",
+          "'Flow review'!$E$7:$E$18"
+        ],
+        "stroke_colors": [
+          {
+            "val": "22786F"
+          }
+        ],
+        "stroke_styles": [
+          {
+            "val": "solid"
+          }
+        ]
+      },
+      {
+        "chart": "xl/drawings/charts/chart1.xml",
+        "formulas": [
+          "'Flow review'!$N$29:$N$40",
+          "'Flow review'!$F$7:$F$18"
+        ],
+        "stroke_colors": [
+          {
+            "val": "B37822"
+          }
+        ],
+        "stroke_styles": [
+          {
+            "val": "dash"
+          }
+        ]
+      },
+      {
+        "chart": "xl/drawings/charts/chart2.xml",
+        "formulas": [
+          "'Incident review'!$J$30:$J$42",
+          "'Incident review'!$K$30:$K$42"
+        ],
+        "stroke_colors": [],
+        "stroke_styles": []
+      }
+    ],
+    "native_tables": 3
+  },
+  "input_sha256_verified": true,
+  "point_label_exact_match": true,
+  "workbook_sha256": "535de94245511298bacdb96b1f959b1c6d531d5d62dcac1a3efd7859edd81ef6",
+  "render_sha256": {
+    "docs/screenshots/excel-flow.png": "fc3d0e17d674ce8ea8a7e6e254c35efe1079e0afe5248b87a1149a075a8f9ba2",
+    "docs/screenshots/excel-incidents.png": "9d0556cc582f468d4736e78feb60be13b870e4a4deed6597b04e6896854225d9",
+    "docs/screenshots/excel-quality.png": "f0c0e786eac8d4e89adc788f93d43a2610fbddee165ce2796edabd67e6ef27a9",
+    "docs/screenshots/excel-flow-inputs.png": "71c1b2bec61ba281a2fd71d1aad30f744925bf14b296ab57f5f8995a1a0dcc90",
+    "docs/screenshots/excel-incident-inputs.png": "d2307cdd86dbdbc96c4026238aba8c053f47befc7a3139aad326957cf82c7a84"
+  },
+  "text_encoding_checks": {
+    "metadata_utf8_roundtrip": true,
+    "xlsx_xml_utf8_decoding": true,
+    "source_urls_present": [
+      "https://open.canada.ca/data/en/dataset/dc343c43-a592-4a27-8ee7-c77df56afb34",
+      "https://open.canada.ca/data/en/dataset/7dffedc4-23fa-440c-a36d-adf5a6cc09f1",
+      "https://open.canada.ca/data/en/dataset/443e98f0-a461-45ab-8fa2-57645b3efbb5"
+    ],
+    "suspicious_encoding_markers": 0
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "captured_at": "2026-11-24T20:49:57.603226+00:00",
+  "source": "Actual local reports/dashboard.html browser rendering",
+  "source_urls": {
+    "flow": "https://open.canada.ca/data/en/dataset/dc343c43-a592-4a27-8ee7-c77df56afb34",
+    "incidents": "https://open.canada.ca/data/en/dataset/7dffedc4-23fa-440c-a36d-adf5a6cc09f1",
+    "boundaries": "https://open.canada.ca/data/en/dataset/443e98f0-a461-45ab-8fa2-57645b3efbb5"
+  },
+  "source_downloaded_at": "2026-11-24T20:42:37.987508+00:00",
+  "report_sha256": "1855391dcd2a4e9e3af004e87569a3157f573178d6bdb711e13fddd6ea466e09",
+  "recording": "Continuous automated browser review of the working energy report; not manual development footage or a native Power BI recording.",
+  "video": {
+    "file": "walkthrough.mp4",
+    "sha256": "c350363df8dbd1509c031cd2a4825b484d71d63731eb7fd0e89555a3be3bb3c8"
+  },
+  "viewport": {
+    "width": 1440,
+    "height": 1100
+  },
+  "browser": "msedge",
+  "page_errors": [],
+  "metric_checks": [
+    {
+      "matches": true,
+      "visible": true,
+      "selection": {
+        "Tab": "flow",
+        "PointId": "8276358786769155",
+        "Year": "2025",
+        "ObservedDays": 365,
+        "ExpectedDays": 365,
+        "PairedDays": 365,
+        "ThroughputSum": 53113883.6263695,
+        "CapacitySum": 51006255,
+        "Utilization": 1.041320983600335,
+        "MeanThroughput": 145517.4893873137,
+        "MeanCapacity": 139743.16438356164
+      },
+      "expected": {
+        "ObservedDays": 365,
+        "ExpectedDays": 365,
+        "PairedDays": 365,
+        "ThroughputSum": 53113883.6263695,
+        "CapacitySum": 51006255,
+        "Utilization": 1.041320983600335,
+        "MeanThroughput": 145517.4893873137,
+        "MeanCapacity": 139743.16438356164
+      }
+    },
+    {
+      "matches": true,
+      "visible": true,
+      "selection": {
+        "Tab": "flow",
+        "PointId": "16fd7066423a46da",
+        "Year": "2025",
+        "ObservedDays": 275,
+        "ExpectedDays": 275,
+        "PairedDays": 275,
+        "ThroughputSum": 829353.823,
+        "CapacitySum": 9148975,
+        "Utilization": 0.09064991684860872,
+        "MeanThroughput": 3015.8320836363637,
+        "MeanCapacity": 33269
+      },
+      "expected": {
+        "ObservedDays": 275,
+        "ExpectedDays": 275,
+        "PairedDays": 275,
+        "ThroughputSum": 829353.823,
+        "CapacitySum": 9148975,
+        "Utilization": 0.09064991684860872,
+        "MeanThroughput": 3015.8320836363637,
+        "MeanCapacity": 33269
+      }
+    },
+    {
+      "matches": true,
+      "visible": true,
+      "selection": {
+        "Tab": "incidents",
+        "Year": "2025",
+        "Province": "",
+        "Status": "",
+        "IncidentRows": 68,
+        "ClosedRows": 68,
+        "SignificantRows": 12,
+        "MappedRows": 68
+      },
+      "expected": {
+        "IncidentRows": 68,
+        "ClosedRows": 68,
+        "SignificantRows": 12,
+        "MappedRows": 68
+      }
+    },
+    {
+      "matches": true,
+      "visible": true,
+      "selection": {
+        "Tab": "incidents",
+        "Year": "",
+        "Province": "Alberta",
+        "Status": "Closed",
+        "IncidentRows": 701,
+        "ClosedRows": 701,
+        "SignificantRows": 100,
+        "MappedRows": 701
+      },
+      "expected": {
+        "IncidentRows": 701,
+        "ClosedRows": 701,
+        "SignificantRows": 100,
+        "MappedRows": 701
+      }
+    },
+    {
+      "matches": true,
+      "visible": true,
+      "selection": {
+        "Tab": "quality",
+        "FlowSourceRows": 279055,
+        "FlowAcceptedRows": 279055,
+        "IncidentRows": 2039,
+        "QualityRules": 19
+      },
+      "expected": {
+        "FlowSourceRows": 279055,
+        "FlowAcceptedRows": 279055,
+        "IncidentRows": 2039,
+        "QualityRules": 19
+      }
+    },
+    {
+      "matches": true,
+      "visible": true,
+      "selection": {
+        "Tab": "flow",
+        "PointId": "8276358786769155",
+        "Year": "2025",
+        "ObservedDays": 365,
+        "ExpectedDays": 365,
+        "PairedDays": 365,
+        "ThroughputSum": 53113883.6263695,
+        "CapacitySum": 51006255,
+        "Utilization": 1.041320983600335,
+        "MeanThroughput": 145517.4893873137,
+        "MeanCapacity": 139743.16438356164
+      },
+      "expected": {
+        "ObservedDays": 365,
+        "ExpectedDays": 365,
+        "PairedDays": 365,
+        "ThroughputSum": 53113883.6263695,
+        "CapacitySum": 51006255,
+        "Utilization": 1.041320983600335,
+        "MeanThroughput": 145517.4893873137,
+        "MeanCapacity": 139743.16438356164
+      }
+    },
+    {
+      "matches": true,
+      "visible": true,
+      "selection": {
+        "Tab": "incidents",
+        "Year": "2025",
+        "Province": "",
+        "Status": "",
+        "IncidentRows": 68,
+        "ClosedRows": 68,
+        "SignificantRows": 12,
+        "MappedRows": 68
+      },
+      "expected": {
+        "IncidentRows": 68,
+        "ClosedRows": 68,
+        "SignificantRows": 12,
+        "MappedRows": 68
+      }
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "01-flow-capacity.png",
+      "description": "Natural gas throughput and reported capacity at the default reporting point and year.",
+      "sha256": "bcfc55c35bcbfabf5400dfac659099c96cf9a4d8fc544ca42efd932d6ecb3acd",
+      "viewport": {
+        "width": 1440,
+        "height": 1100
+      },
+      "selection": {
+        "Tab": "flow",
+        "PointId": "8276358786769155",
+        "Year": "2025",
+        "ObservedDays": 365,
+        "ExpectedDays": 365,
+        "PairedDays": 365,
+        "ThroughputSum": 53113883.6263695,
+        "CapacitySum": 51006255,
+        "Utilization": 1.041320983600335,
+        "MeanThroughput": 145517.4893873137,
+        "MeanCapacity": 139743.16438356164
+      }
+    },
+    {
+      "file": "02-point-review.png",
+      "description": "Another reporting point, with the monthly data table expanded for denominator review.",
+      "sha256": "5273025ee2a4757388016b47a1a0a9227713f2f23bf59632b713c66bd497acf7",
+      "viewport": {
+        "width": 1440,
+        "height": 1100
+      },
+      "selection": {
+        "Tab": "flow",
+        "PointId": "16fd7066423a46da",
+        "Year": "2025",
+        "ObservedDays": 275,
+        "ExpectedDays": 275,
+        "PairedDays": 275,
+        "ThroughputSum": 829353.823,
+        "CapacitySum": 9148975,
+        "Utilization": 0.09064991684860872,
+        "MeanThroughput": 3015.8320836363637,
+        "MeanCapacity": 33269
+      }
+    },
+    {
+      "file": "03-incident-map.png",
+      "description": "Reported incident locations on openly licensed NRCan province boundaries.",
+      "sha256": "eb70b91e1f075d38f4f02b6573e3e961d748e125e674bbda86389722956028fe",
+      "viewport": {
+        "width": 1440,
+        "height": 1100
+      },
+      "selection": {
+        "Tab": "incidents",
+        "Year": "2025",
+        "Province": "",
+        "Status": "",
+        "IncidentRows": 68,
+        "ClosedRows": 68,
+        "SignificantRows": 12,
+        "MappedRows": 68
+      }
+    },
+    {
+      "file": "04-alberta-review.png",
+      "description": "Alberta incident records across reported years, filtered to published Closed status.",
+      "sha256": "24c4d6332c1a424d8d9c2a9399bbc8565b1b2ec3125c68d013f10f2e6d6d89ca",
+      "viewport": {
+        "width": 1440,
+        "height": 1100
+      },
+      "selection": {
+        "Tab": "incidents",
+        "Year": "",
+        "Province": "Alberta",
+        "Status": "Closed",
+        "IncidentRows": 701,
+        "ClosedRows": 701,
+        "SignificantRows": 100,
+        "MappedRows": 701
+      }
+    },
+    {
+      "file": "05-data-quality.png",
+      "description": "Full-snapshot source profiling, spatial checks and provenance.",
+      "sha256": "3ce53837193467c10d4535faeedc4c60a2a86226ee1b2ab223d42464b1b8409b",
+      "viewport": {
+        "width": 1440,
+        "height": 1100
+      },
+      "selection": {
+        "Tab": "quality",
+        "FlowSourceRows": 279055,
+        "FlowAcceptedRows": 279055,
+        "IncidentRows": 2039,
+        "QualityRules": 19
+      }
+    },
+    {
+      "file": "06-mobile-flow.png",
+      "description": "Working flow report at a 390-pixel viewport.",
+      "sha256": "6544925a66f36ca74643e01d81d119249fba4f1d3cdefcb1dbc2f7a62db8f265",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "selection": {
+        "Tab": "flow",
+        "PointId": "8276358786769155",
+        "Year": "2025",
+        "ObservedDays": 365,
+        "ExpectedDays": 365,
+        "PairedDays": 365,
+        "ThroughputSum": 53113883.6263695,
+        "CapacitySum": 51006255,
+        "Utilization": 1.041320983600335,
+        "MeanThroughput": 145517.4893873137,
+        "MeanCapacity": 139743.16438356164
+      }
+    },
+    {
+      "file": "07-mobile-incidents.png",
+      "description": "Incident map and record inspection at a 390-pixel viewport.",
+      "sha256": "ecbf4c002290542b46c1526eb00a0a491922003135cc44bcf46ef9df40053bff",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "selection": {
+        "Tab": "incidents",
+        "Year": "2025",
+        "Province": "",
+        "Status": "",
+        "IncidentRows": 68,
+        "ClosedRows": 68,
+        "SignificantRows": 12,
+        "MappedRows": 68
+      }
+    }
+  ]
+}

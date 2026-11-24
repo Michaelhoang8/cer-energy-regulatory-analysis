@@ -1,0 +1,44 @@
+// Reported daily observations, counted separately at each key point.
+Observed point-days = SUM(FactFlow[ObservedDays])
+
+// Expected daily observations under the documented active-series coverage policy.
+Expected point-days = SUM(FactFlow[ExpectedDays])
+
+// Days with usable paired volumetric throughput and positive capacity.
+Paired point-days = SUM(FactFlow[PairedDays])
+
+// Mean valid daily throughput at one selected point; thousand cubic metres per day.
+Mean throughput = IF(HASONEVALUE(DimPoint[PointId]), DIVIDE(SUM(FactFlow[ThroughputAllSum]), SUM(FactFlow[ThroughputDays])))
+
+// Mean valid reported capacity at one selected point; thousand cubic metres per day.
+Mean capacity = IF(HASONEVALUE(DimPoint[PointId]), DIVIDE(SUM(FactFlow[CapacityAllSum]), SUM(FactFlow[CapacityDays])))
+
+// Paired throughput divided by paired reported capacity at one point. This is a ratio of sums, not an average of monthly ratios.
+Utilization = IF(HASONEVALUE(DimPoint[PointId]), DIVIDE(SUM(FactFlow[ThroughputSum]), SUM(FactFlow[CapacitySum])))
+
+// Observed point-days divided by expected point-days. Does not imply field completeness.
+Reporting coverage = DIVIDE([Observed point-days], [Expected point-days])
+
+// Observed point-days whose capacity is missing or unusable under pipeline validation.
+Missing capacity days = SUM(FactFlow[MissingCapacityDays])
+
+// Observed point-days whose throughput is missing or unusable under pipeline validation.
+Missing throughput days = SUM(FactFlow[MissingThroughputDays])
+
+// Point-days above the published capacity estimate; not a finding of noncompliance.
+Above reported capacity = SUM(FactFlow[OverCapacityDays])
+
+// Negative volumetric observations retained as review flags.
+Negative throughput days = SUM(FactFlow[NegativeThroughputDays])
+
+// Unique incident records in the comprehensive CER extract, grouped by reported month.
+Incidents = COUNTROWS(FactIncident)
+
+// Incidents with preliminary or submitted review status at snapshot time.
+Open incidents = COALESCE(CALCULATE(COUNTROWS(FactIncident), KEEPFILTERS(FactIncident[Status] IN {"Initially Submitted", "Submitted"})), 0)
+
+// Incidents explicitly classified Significant=Yes by the source.
+Significant incidents = COALESCE(CALCULATE(COUNTROWS(FactIncident), KEEPFILTERS(FactIncident[Significant] = "Yes")), 0)
+
+// Incident records with usable latitude and longitude; does not establish an exact pipeline match.
+Located incidents = COALESCE(COUNTROWS(FILTER(FactIncident, NOT(ISBLANK(FactIncident[Latitude])) && NOT(ISBLANK(FactIncident[Longitude])))), 0)

@@ -1,0 +1,31 @@
+name: Validate energy analysis
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  validate:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Verify pinned source files
+        run: python scripts/verify_source.py
+      - name: Rebuild relational model and reports
+        run: python src/build.py
+      - name: Rebuild Power BI project
+        run: python src/build_powerbi.py
+      - name: Validate pipeline, GIS and semantic model
+        run: python -m unittest discover -s tests -v
+      - name: Reconcile recorded native DAX evidence
+        run: python src/compare_powerbi.py
+      - name: Verify browser, native and Excel evidence
+        run: |
+          python scripts/verify_evidence.py
+          python scripts/verify_excel.py
+      - name: Check outputs reproduce
+        run: git diff --exit-code -- data/model reports/dashboard_data.json reports/dashboard.html reports/source_profile.json reports/findings.md reports/quality.csv reports/incident_reconciliation.csv reports/spatial_review.csv powerbi/native

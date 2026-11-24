@@ -1,0 +1,20 @@
+Rule,Dataset,Rows,Severity,Meaning
+Missing capacity,Daily flow,7842,Completeness,Not imputed; excludes affected observations from the paired utilization denominator.
+Missing throughput,Daily flow,1602,Completeness,Not imputed as zero. Observation coverage and numeric completeness are separate.
+Throughput above reported capacity,Daily flow,12891,Review,Reported capacity is an estimate and may be exceeded. This is not a regulatory breach finding.
+Signed negative throughput,Daily flow,5,Review,Retained with its published sign; no automatic absolute-value conversion.
+Missing dates inside series window,Daily flow,0,Completeness,Calendar dates between first and last published observation; not an availability or outage metric.
+Exact repeated raw records removed,Daily flow,0,Review,Preserve source file and row references for analyst review.
+Invalid dates quarantined,Daily flow,0,Review,Preserve source file and row references for analyst review.
+Conflicting daily keys quarantined,Daily flow,0,Review,Preserve source file and row references for analyst review.
+Date component differences,Daily flow,0,Review,Preserve source file and row references for analyst review.
+Monthly-frequency source excluded,Brunswick,206,Scope,Retained source has monthly observations and is excluded from daily coverage calculations.
+match,Incident GIS,1996,Checked,Approximate source points compared with generalized NRCan polygons; no source-coordinate corrections.
+mismatch_review,Incident GIS,37,Review,Approximate source points compared with generalized NRCan polygons; no source-coordinate corrections.
+outside_generalized_boundary,Incident GIS,5,Review,Approximate source points compared with generalized NRCan polygons; no source-coordinate corrections.
+unknown_reported_province,Incident GIS,1,Review,Approximate source points compared with generalized NRCan polygons; no source-coordinate corrections.
+matched,Incident source reconciliation,2039,Checked,"Independent official publications can differ in coverage, publication timing or field values; no automatic overwrite."
+Invalid reported dates,Incidents,0,Review,Undated records remain visible in the Not reported cohort.
+Negative closure interval,Incidents,0,Review,Reported-to-closed intervals below zero are excluded from duration summaries.
+Source dictionary unit inconsistency,Metadata,1,Review,Gas capacity header states 1000 m3/d while dictionary description says GJ/day. Preserve the source; use the explicit column header unit.
+Source dictionary coordinate descriptions reversed,Metadata,2,Review,Incident dictionary latitude/longitude descriptions are reversed. Use CSV headers and coordinate-range checks; do not swap data.
