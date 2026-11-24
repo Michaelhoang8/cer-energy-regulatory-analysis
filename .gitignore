@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+node_modules/
+.pbi/
+*.sqlite
+*.sqlite-journal
+*.inspect.ndjson
+reports/runs/
+data/source/incident_methodology.pdf
+data/source/*methodology*text*

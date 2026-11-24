@@ -1,0 +1,44 @@
+[
+  {
+    "id": "reported_date",
+    "page": 4,
+    "interpretation": "Reported year describes notification to the regulator, not necessarily occurrence or discovery.",
+    "source_url": "https://apps2.cer-rec.gc.ca/pipeline-incidents/data/Incident%20Data%20Methodology_EN.pdf",
+    "evidence_check": "passed"
+  },
+  {
+    "id": "preliminary_status",
+    "page": 2,
+    "interpretation": "Initially Submitted and Submitted records can change as investigations progress.",
+    "source_url": "https://apps2.cer-rec.gc.ca/pipeline-incidents/data/Incident%20Data%20Methodology_EN.pdf",
+    "evidence_check": "passed"
+  },
+  {
+    "id": "closed_review",
+    "page": 2,
+    "interpretation": "Closed indicates completed regulatory review; it does not mean an incident never occurred.",
+    "source_url": "https://apps2.cer-rec.gc.ca/pipeline-incidents/data/Incident%20Data%20Methodology_EN.pdf",
+    "evidence_check": "passed"
+  },
+  {
+    "id": "collection_change",
+    "page": 3,
+    "interpretation": "The 2015 reporting-system change is relevant context for historical completeness comparisons.",
+    "source_url": "https://apps2.cer-rec.gc.ca/pipeline-incidents/data/Incident%20Data%20Methodology_EN.pdf",
+    "evidence_check": "passed"
+  },
+  {
+    "id": "regulatory_company",
+    "page": 4,
+    "interpretation": "Company identifies the regulatory instrument holder; throughput-system names require a separate crosswalk.",
+    "source_url": "https://apps2.cer-rec.gc.ca/pipeline-incidents/data/Incident%20Data%20Methodology_EN.pdf",
+    "evidence_check": "passed"
+  },
+  {
+    "id": "release_volume",
+    "page": 6,
+    "interpretation": "Released volume is approximate. Interpret substances separately and retain missing amounts.",
+    "source_url": "https://apps2.cer-rec.gc.ca/pipeline-incidents/data/Incident%20Data%20Methodology_EN.pdf",
+    "evidence_check": "passed"
+  }
+]

@@ -1,0 +1,413 @@
+﻿Date,Day,Month,Year,Company,Pipeline,Key Point,Latitude,Longitude,Direction Of Flow,Trade Type,Capacity (1000 m3/d),Throughput (1000 m3/d),Throughput (GJ/d)
+2009-07-01,1,7,2009,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3165.434193548387,117880.76936774193
+2009-09-01,1,9,2009,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3092.881,115178.88844
+2009-10-01,1,10,2009,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,4665.274193548387,173734.81096774194
+2009-11-01,1,11,2009,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,5173.4473333333335,192659.17869333332
+2009-12-01,1,12,2009,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,9407.57870967742,350338.2311483871
+2010-01-01,1,1,2010,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,12370.167419354839,460665.0346967742
+2010-02-01,1,2,2010,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,9067.963214285714,337690.9501
+2010-03-01,1,3,2010,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,4403.862903225807,163999.85451612904
+2010-04-01,1,4,2010,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3812.184,141965.73216
+2010-05-01,1,5,2010,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,4521.678064516129,168387.29112258065
+2010-06-01,1,6,2010,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,4134.6776666666665,153975.39630666666
+2010-07-01,1,7,2010,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,4041.5648387096776,150507.8745935484
+2010-08-01,1,8,2010,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3328.814516129032,123965.05258064516
+2010-09-01,1,9,2010,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3279.895,122143.2898
+2010-10-01,1,10,2010,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3343.417419354839,124508.8646967742
+2010-11-01,1,11,2010,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3871.8723333333332,144188.52569333333
+2010-12-01,1,12,2010,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,11728.445161290323,436767.2978064516
+2011-01-01,1,1,2011,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,19408.97,722790.0428
+2011-02-01,1,2,2011,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,16930.285714285714,630483.84
+2011-03-01,1,3,2011,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,11388.683225806451,424114.5633290323
+2011-04-01,1,4,2011,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,8276.802666666666,308228.13130666665
+2011-05-01,1,5,2011,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,1191.8574193548386,44384.77029677419
+2011-06-01,1,6,2011,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,7426.554666666667,276564.89578666666
+2011-07-01,1,7,2011,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,7121.5741935483875,265207.42296774196
+2011-08-01,1,8,2011,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,4058.449677419355,151136.66598709679
+2011-09-01,1,9,2011,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,4404.626,164028.27224
+2011-10-01,1,10,2011,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,7139.254929032258,265865.8535571613
+2011-11-01,1,11,2011,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,8007.435333333333,298196.8918133333
+2011-12-01,1,12,2011,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,8964.842258064516,333850.7256903226
+2012-01-01,1,1,2012,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,9566.936774193548,356272.72547096777
+2012-02-01,1,2,2012,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,9643.310689655173,359116.8900827586
+2012-03-01,1,3,2012,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,5367.138064516129,199872.22152258066
+2012-04-01,1,4,2012,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2811.5906666666665,104703.63642666666
+2012-05-01,1,5,2012,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,1361.5274193548387,50703.2810967742
+2012-06-01,1,6,2012,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2358.546333333333,87832.26545333333
+2012-07-01,1,7,2012,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2848.071290322581,106062.1748516129
+2012-08-01,1,8,2012,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2840.3445161290324,105774.42978064517
+2012-09-01,1,9,2012,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2818.1046666666666,104946.21778666666
+2012-10-01,1,10,2012,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2899.5190322580647,107978.08876129032
+2012-11-01,1,11,2012,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,4065.12,151385.0688
+2012-12-01,1,12,2012,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,7439.408709677419,277043.58034838707
+2013-01-01,1,1,2013,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,11391.442580645162,424217.3217032258
+2013-02-01,1,2,2013,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,6480.4975,241333.7269
+2013-03-01,1,3,2013,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3773.603548387097,140528.9961419355
+2013-04-01,1,4,2013,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,1412.5936666666666,52604.98814666667
+2013-05-01,1,5,2013,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,581.758064516129,21664.670322580645
+2013-06-01,1,6,2013,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,724.63091,26985.2550884
+2013-07-01,1,7,2013,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,957.4822774193549,35656.64001109677
+2013-08-01,1,8,2013,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,9.009096774193548,335.49876387096776
+2013-09-01,1,9,2013,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,851.0522033333333,31693.184052133332
+2013-10-01,1,10,2013,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,271.26927741935486,10102.067891096774
+2013-11-01,1,11,2013,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3504.8172366666668,130519.39389346667
+2013-12-01,1,12,2013,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2799.5602322580644,104255.62304929033
+2014-01-01,1,1,2014,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,5698.620074193548,212216.61156296774
+2014-02-01,1,2,2014,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3261.9968642857143,121476.763226
+2014-03-01,1,3,2014,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2326.354019354839,86633.4236807742
+2014-04-01,1,4,2014,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,216.15684,8049.6807216
+2014-05-01,1,5,2014,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,263.8037580645161,9824.05195032258
+2014-06-01,1,6,2014,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,287.55121,10708.4070604
+2014-07-01,1,7,2014,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,234.08427741935483,8717.298491096773
+2014-08-01,1,8,2014,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,280.37725161290325,10441.248850064516
+2014-09-01,1,9,2014,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,401.43333333333334,14949.377333333334
+2014-10-01,1,10,2014,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,342.20524516129035,12743.723329806451
+2014-11-01,1,11,2014,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,294.42919666666666,10964.543283866667
+2014-12-01,1,12,2014,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2295.7458870967744,85493.57683548387
+2015-01-01,1,1,2015,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,5317.253396774194,198014.51649587098
+2015-02-01,1,2,2015,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,8861.35555,329996.880682
+2015-03-01,1,3,2015,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2300.5060967741933,85670.84704387096
+2015-04-01,1,4,2015,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,263.76686333333333,9822.677990533333
+2015-05-01,1,5,2015,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,272.24967741935484,10138.577987096774
+2015-06-01,1,6,2015,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,280.76206666666667,10455.579362666667
+2015-07-01,1,7,2015,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,262.5426258064516,9777.087385032259
+2015-08-01,1,8,2015,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,245.22224516129032,9132.076409806452
+2015-09-01,1,9,2015,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,313.4509933333333,11672.914991733332
+2015-10-01,1,10,2015,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,579.5170967741935,21581.216683870967
+2015-11-01,1,11,2015,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,280.3217666666667,10439.182590666667
+2015-12-01,1,12,2015,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,1732.7904516129033,64529.116418064514
+2016-01-01,1,1,2016,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,5327.844483870967,198408.92857935483
+2016-02-01,1,2,2016,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3619.6784137931036,134796.82412965517
+2016-03-01,1,3,2016,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,330.714,12315.78936
+2016-04-01,1,4,2016,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,527.3422666666667,19638.226010666665
+2016-05-01,1,5,2016,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,283.8643548387097,10571.108574193548
+2016-06-01,1,6,2016,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,286.70436666666666,10676.870614666666
+2016-07-01,1,7,2016,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,297.2943870967742,11071.24297548387
+2016-08-01,1,8,2016,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,281.59348387096776,10486.541339354839
+2016-09-01,1,9,2016,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,253.64176666666665,9445.619390666667
+2016-10-01,1,10,2016,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,270.88651612903226,10087.813860645161
+2016-11-01,1,11,2016,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,266.65156666666667,9930.104342666667
+2016-12-01,1,12,2016,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2191.825806451613,81623.59303225807
+2017-01-01,1,1,2017,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,1955.6845161290323,72829.69138064516
+2017-02-01,1,2,2017,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3652.436642857143,136016.74058
+2017-03-01,1,3,2017,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2445.445,91068.3718
+2017-04-01,1,4,2017,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,217.15803333333332,8086.9651613333335
+2017-05-01,1,5,2017,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,283.35254838709676,10552.048901935485
+2017-06-01,1,6,2017,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,330.34076666666664,12301.890150666666
+2017-07-01,1,7,2017,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,265.4697741935484,9886.094390967743
+2017-08-01,1,8,2017,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,311.3292903225806,11593.902771612904
+2017-09-01,1,9,2017,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,275.7509733333333,10268.966246933333
+2017-10-01,1,10,2017,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,238.17296774193548,8869.561318709677
+2017-11-01,1,11,2017,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,360.17705333333333,13412.993466133334
+2017-12-01,1,12,2017,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3394.800741935484,126422.37962967742
+2018-01-01,1,1,2018,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,6609.623503225806,246142.37926012903
+2018-02-01,1,2,2018,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2716.2854392857143,101154.469759
+2018-03-01,1,3,2018,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,267.88754516129035,9976.132181806452
+2018-04-01,1,4,2018,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,913.4224666666667,34015.85265866666
+2018-05-01,1,5,2018,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,219.13515483870967,8160.593166193548
+2018-06-01,1,6,2018,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,300.04393666666664,11173.636201466667
+2018-07-01,1,7,2018,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,266.6729387096774,9930.900237548387
+2018-08-01,1,8,2018,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,309.55146451612904,11527.696538580645
+2018-09-01,1,9,2018,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,228.99033333333333,8527.600013333333
+2018-10-01,1,10,2018,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,371.6988322580645,13842.064513290323
+2018-11-01,1,11,2018,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,977.5098,36402.464952
+2018-12-01,1,12,2018,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,1087.6028903225806,40502.3316356129
+2019-01-01,1,1,2019,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,7504.986435483871,279485.69485741935
+2019-02-01,1,2,2019,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3802.3320285714285,141598.844744
+2019-03-01,1,3,2019,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3456.0167225806454,128702.06274890322
+2019-04-01,1,4,2019,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,256.54164333333335,9553.610797733334
+2019-05-01,1,5,2019,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,216.06843870967742,8046.3886575483875
+2019-06-01,1,6,2019,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,268.0011133333333,9980.361460533333
+2019-07-01,1,7,2019,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,575.714235483871,21439.598129419355
+2019-08-01,1,8,2019,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,231.92769677419355,8636.987427870969
+2019-09-01,1,9,2019,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,262.6517866666667,9781.152535466666
+2019-10-01,1,10,2019,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,262.8438258064516,9788.304073032257
+2019-11-01,1,11,2019,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,907.7559933333333,33804.833191733334
+2019-12-01,1,12,2019,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3005.4501612903227,111922.96400645161
+2020-01-01,1,1,2020,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,7435.6739032258065,276904.49615612905
+2020-02-01,1,2,2020,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,5429.919413793104,202210.19896965518
+2020-03-01,1,3,2020,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,1475.0115774193548,54929.43114309677
+2020-04-01,1,4,2020,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,386.18058333333335,14381.364923333333
+2020-05-01,1,5,2020,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,268.06712258064516,9982.819644903226
+2020-06-01,1,6,2020,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,335.25148333333334,12484.765239333334
+2020-07-01,1,7,2020,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3103.0488096774193,115557.5376723871
+2020-08-01,1,8,2020,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,1388.9892322580645,51725.95900929032
+2020-09-01,1,9,2020,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,867.6486933333333,32311.237339733332
+2020-10-01,1,10,2020,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,1150.7060774193549,42852.29432309677
+2020-11-01,1,11,2020,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,737.1047,27449.779028
+2020-12-01,1,12,2020,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,3680.721270967742,137070.0601308387
+2021-01-01,1,1,2021,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,6513.9602258064515,242579.87880903226
+2021-02-01,1,2,2021,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,9879.452889285714,367910.825597
+2021-03-01,1,3,2021,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,1847.4858322580644,68800.37239329032
+2021-04-01,1,4,2021,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,403.47100666666665,15025.260288266667
+2021-05-01,1,5,2021,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,260.1509612903226,9688.021798451613
+2021-06-01,1,6,2021,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,249.76178,9301.1286872
+2021-07-01,1,7,2021,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,217.4658870967742,8098.429635483871
+2021-08-01,1,8,2021,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,383.1763387096774,14269.486853548387
+2021-09-01,1,9,2021,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,240.35196,8950.7069904
+2021-10-01,1,10,2021,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,174.0069935483871,6480.020439741936
+2021-11-01,1,11,2021,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,348.88206,12992.3679144
+2021-12-01,1,12,2021,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,565.7272032258064,21067.681048129034
+2022-01-01,1,1,2022,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,5796.631751612903,215866.56643006453
+2022-02-01,1,2,2022,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,986.3928714285714,36733.270532
+2022-03-01,1,3,2022,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,238.53375161290322,8882.996910064516
+2022-04-01,1,4,2022,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,199.5606,7431.636744
+2022-05-01,1,5,2022,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,227.186,8460.40664
+2022-06-01,1,6,2022,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,91.69347,3414.6648228
+2022-07-01,1,7,2022,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,100.11193548387097,3728.168477419355
+2022-08-01,1,8,2022,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,80.88639032258064,3012.2091756129034
+2022-09-01,1,9,2022,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,32.52444666666667,1211.2103938666667
+2022-10-01,1,10,2022,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,110.04264516129032,4097.988105806452
+2022-11-01,1,11,2022,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,301.40868,11224.4592432
+2022-12-01,1,12,2022,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,711.0766806451613,26480.495587225807
+2023-01-01,1,1,2023,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,298.21677741935486,11105.592791096775
+2023-02-01,1,2,2023,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2104.912092857143,78386.926338
+2023-03-01,1,3,2023,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,200.19856774193548,7455.3946627096775
+2023-04-01,1,4,2023,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,264.87687666666665,9864.014887066667
+2023-05-01,1,5,2023,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,295.72634516129034,11012.849093806451
+2023-06-01,1,6,2023,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,577.10736,21491.4780864
+2023-07-01,1,7,2023,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,1064.6992419354838,39649.39976967742
+2023-08-01,1,8,2023,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,457.34403225806454,17031.491761290323
+2023-09-01,1,9,2023,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,200.89919666666665,7481.486083866666
+2023-10-01,1,10,2023,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,329.5908322580645,12273.962593290322
+2023-11-01,1,11,2023,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,501.5166966666667,18676.481783866668
+2023-12-01,1,12,2023,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,732.4498290322581,27276.43163316129
+2024-01-01,1,1,2024,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,7443.698625806452,277203.33682503225
+2024-02-01,1,2,2024,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,745.7601931034483,27772.109591172415
+2024-03-01,1,3,2024,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,291.3087064516129,10848.336228258064
+2024-04-01,1,4,2024,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,205.42107333333334,7649.880770933333
+2024-05-01,1,5,2024,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,307.2846903225807,11443.281867612903
+2024-06-01,1,6,2024,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,383.21070333333336,14270.766592133334
+2024-07-01,1,7,2024,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,290.9838322580645,10836.237913290322
+2024-08-01,1,8,2024,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,345.0256322580645,12848.754545290323
+2024-09-01,1,9,2024,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,231.60005,8624.785862
+2024-10-01,1,10,2024,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,245.36427741935483,9137.365691096775
+2024-11-01,1,11,2024,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,181.47225,6758.02659
+2024-12-01,1,12,2024,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,2441.593841935484,90924.95467367742
+2025-01-01,1,1,2025,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,8590.307041935484,319903.03424167744
+2025-02-01,1,2,2025,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,6870.982425,255875.385507
+2025-03-01,1,3,2025,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,548.8067967741936,20437.56511187097
+2025-04-01,1,4,2025,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,100.14594666666666,3729.4350538666667
+2025-05-01,1,5,2025,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,108.46398387096774,4039.198759354839
+2025-06-01,1,6,2025,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,357.9283433333333,13329.251505733333
+2025-07-01,1,7,2025,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,380.98955806451613,14188.05114232258
+2025-08-01,1,8,2025,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,133.4989064516129,4971.499276258064
+2025-09-01,1,9,2025,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,362.2182666666667,13489.008250666666
+2025-10-01,1,10,2025,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,271.32974193548387,10104.31958967742
+2025-11-01,1,11,2025,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,188.10534666666666,7005.043109866667
+2025-12-01,1,12,2025,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,11886.920612903226,442668.9236245161
+2026-01-01,1,1,2026,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,12660.689896774193,471484.09175587096
+2026-02-01,1,2,2026,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,9258.56965,344789.133766
+2026-03-01,1,3,2026,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,679.7001774193549,25312.034607096775
+2026-04-01,1,4,2026,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,91.10219333333333,3392.6456797333335
+2026-05-01,1,5,2026,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,75.05497419354839,2795.047238967742
+2026-06-01,1,6,2026,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,306.06467,11397.8483108
+2026-07-01,1,7,2026,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,258.60168387096775,9630.32670735484
+2026-08-01,1,8,2026,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,354.45352258064514,13199.849180903226
+2026-09-01,1,9,2026,Emera Brunswick Pipeline Company Ltd.,"Brunswick pipeline
+",system,,,west,export,23200.0,219.47086,8173.0948264

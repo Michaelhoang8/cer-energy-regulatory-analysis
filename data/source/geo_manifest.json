@@ -1,0 +1,27 @@
+{
+  "publisher": "Natural Resources Canada",
+  "dataset": "Canada Basemap - Provinces/Territories and Simple Grey",
+  "source_page": "https://open.canada.ca/data/en/dataset/443e98f0-a461-45ab-8fa2-57645b3efbb5",
+  "layer": "SM_C, small-scale province boundary polygons",
+  "downloaded_at_utc": "2026-11-24T20:38:28.951702+00:00",
+  "license": "Open Government Licence - Canada",
+  "license_url": "https://open.canada.ca/en/open-government-licence-canada/",
+  "output_crs": "EPSG:4326; coordinate order longitude, latitude",
+  "features": 114,
+  "province_territory_count": 13,
+  "resources": [
+    {
+      "file": "province_layer.json",
+      "url": "https://maps-cartes.services.geo.ca/server2_serveur2/rest/services/BaseMaps/Provinces/MapServer/2?f=pjson",
+      "sha256": "3d7169c3ca6989cdec7eaa25ce0cb22186d5c896b7d3c4710f48666645bfbad6",
+      "bytes": 19979
+    },
+    {
+      "file": "provinces.geojson",
+      "url": "https://maps-cartes.services.geo.ca/server2_serveur2/rest/services/BaseMaps/Provinces/MapServer/2/query?where=COUNTRY%3D1&outFields=%2A&outSR=4326&f=geojson",
+      "sha256": "e00fbec5deb9cb6cf8f0b8dcc4cf6dad651cdc5da0a7ab2a6610bda7d0d9c2b4",
+      "bytes": 308584
+    }
+  ],
+  "limitations": "Generalized cartographic boundaries for geographic context and review; not cadastral boundaries or authoritative legal/location verification."
+}

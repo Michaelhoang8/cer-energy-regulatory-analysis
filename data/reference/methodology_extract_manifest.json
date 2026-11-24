@@ -1,0 +1,70 @@
+{
+  "title": "Incident Data: Methodology - Incidents at CER-regulated Pipelines and Facilities",
+  "publisher": "Canada Energy Regulator",
+  "source_url": "https://apps2.cer-rec.gc.ca/pipeline-incidents/data/Incident%20Data%20Methodology_EN.pdf",
+  "source_sha256": "3b13337da8de1630a2d53361fe35c85d3a1b44d66050c43c11fbc34102e20678",
+  "source_bytes": 253385,
+  "page_count": 7,
+  "pdf_creation_date": "D:20191017131941-06'00'",
+  "pdf_modified_date": "D:20191017131942-06'00'",
+  "extractor": "pypdf",
+  "extractor_version": "6.21.4",
+  "fonttools_version": "4.68.0",
+  "pages": [
+    {
+      "page": 1,
+      "text_characters": 567,
+      "normalized_text_sha256": "f9250b8f12ed2b9b1a5979dda7165a0ebe50ddb48ae52bae410048653efe84c7"
+    },
+    {
+      "page": 2,
+      "text_characters": 3070,
+      "normalized_text_sha256": "cf6635fb53eecb25c39581f562ba0d603239a2bf377b42ca7ea3c37506f53258"
+    },
+    {
+      "page": 3,
+      "text_characters": 1528,
+      "normalized_text_sha256": "c72e82d52388910f9afd5d10e894b64dd09afff2009d20b332b09bf108b2857c"
+    },
+    {
+      "page": 4,
+      "text_characters": 2732,
+      "normalized_text_sha256": "be647636121418961888c93e4c39f69ae01b5225a6a00bdc27107436bfba540c"
+    },
+    {
+      "page": 5,
+      "text_characters": 2536,
+      "normalized_text_sha256": "17b241fa1bf12f8195c01d51d37ceab1f092e51784e95d26cfc380ea62ba467a"
+    },
+    {
+      "page": 6,
+      "text_characters": 2134,
+      "normalized_text_sha256": "42df02b7c9df9d22f4281dbb95341731595d1e04483f78136762129d808e36c3"
+    },
+    {
+      "page": 7,
+      "text_characters": 650,
+      "normalized_text_sha256": "4cb0895170b7a7165fdec7cdcc4f1defdd164a75cb9265fe580cbf91ab648c67"
+    }
+  ],
+  "licence_scope": "CER website non-commercial reproduction terms; not the data's Open Government Licence.",
+  "terms_url": "https://www.cer-rec.gc.ca/en/terms-conditions.html",
+  "review_note": "Historical publisher methodology. PDF creation metadata is from 2019; these interpretation rules are not a statement of current law.",
+  "dictionary_review": {
+    "file": "data/source/incident_dictionary.csv",
+    "encoding": "cp1252",
+    "sha256": "170216d141b0778fe0ce5d010b118378789c838ea01ca72fac63cc656af3a3dc",
+    "issues": [
+      {
+        "field": "Longitude",
+        "issue": "axis_description_mismatch",
+        "treatment": "Preserve the source; use named coordinate fields and range checks, without swapping axes."
+      },
+      {
+        "field": "Latitude",
+        "issue": "axis_description_mismatch",
+        "treatment": "Preserve the source; use named coordinate fields and range checks, without swapping axes."
+      }
+    ]
+  }
+}

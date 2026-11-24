@@ -1,0 +1,7 @@
+* text=auto eol=lf
+data/source/*.csv -text
+data/source/*.geojson -text
+data/source/province_layer.json -text
+*.png binary
+*.mp4 binary
+*.xlsx binary

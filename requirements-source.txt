@@ -1,0 +1,3 @@
+# Optional only: re-extract the linked methodology PDF.
+pypdf==6.21.4
+fonttools==4.68.0

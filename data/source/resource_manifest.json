@@ -1,0 +1,519 @@
+{
+  "dataset": "Pipeline Throughput and Capacity Data",
+  "publisher": "Canada Energy Regulator",
+  "catalogue_id": "dc343c43-a592-4a27-8ee7-c77df56afb34",
+  "license": "Open Government Licence - Canada",
+  "license_url": "https://open.canada.ca/en/open-government-licence-canada/",
+  "attribution": "Contains information licensed under the Open Government Licence – Canada.",
+  "profiled_at_utc": "2026-11-24T20:39:31.531731+00:00",
+  "resources": [
+    {
+      "resource_id": "ngtl",
+      "file": "ngtl.csv",
+      "download_url": "https://www.cer-rec.gc.ca/open/energy/throughput-capacity/ngtl-throughput-and-capacity.csv",
+      "source_page": "https://open.canada.ca/data/en/dataset/dc343c43-a592-4a27-8ee7-c77df56afb34",
+      "publisher": "Canada Energy Regulator",
+      "retrieved_at_utc": "2026-11-24T20:36:11.584441+00:00",
+      "bytes": 11814960,
+      "sha256": "ade7644efccdf9e8e994a96ba33b5e51970edad27951c72118bbe72bbe7df815",
+      "encoding": "utf-8-sig",
+      "observations": 59225,
+      "date_min": "2006-01-01",
+      "date_max": "2026-09-30",
+      "distinct_dates": 7578,
+      "observed_frequency": "daily",
+      "natural_key": [
+        "Date",
+        "Pipeline",
+        "Key Point",
+        "Direction Of Flow",
+        "Trade Type"
+      ],
+      "repeated_natural_key_rows": 0,
+      "duplicate_natural_key_groups": 0,
+      "pipelines": [
+        "NGTL System"
+      ],
+      "company_labels": [
+        "NGTL GP Ltd. as general partner on behalf of NGTL Limited Partnership"
+      ],
+      "key_points": [
+        "Calgary",
+        "East Gate",
+        "Edmonton",
+        "North and East",
+        "OSDA Kirby",
+        "OSDA Liege",
+        "Saturn",
+        "Upstream of James River",
+        "West Gate",
+        "Willow Valley Interconnect"
+      ],
+      "points_with_multiple_coordinate_pairs": 0,
+      "numeric_profile": {
+        "Capacity (1000 m3/d)": {
+          "blank": 7792,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "Throughput (1000 m3/d)": {
+          "blank": 1552,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 2036
+        },
+        "Throughput (GJ/d)": {
+          "blank": 1552,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 2036
+        }
+      }
+    },
+    {
+      "resource_id": "tcpl-mainline",
+      "file": "tcpl-mainline.csv",
+      "download_url": "https://www.cer-rec.gc.ca/open/energy/throughput-capacity/tcpl-mainline-throughput-and-capacity.csv",
+      "source_page": "https://open.canada.ca/data/en/dataset/dc343c43-a592-4a27-8ee7-c77df56afb34",
+      "publisher": "Canada Energy Regulator",
+      "retrieved_at_utc": "2026-11-24T20:38:00.577166+00:00",
+      "bytes": 19902984,
+      "sha256": "bd536b9c1d5aec2dc4e514d9b33783018b302813d9e8021aa583c971c767d249",
+      "encoding": "utf-8-sig",
+      "observations": 108135,
+      "date_min": "2006-01-01",
+      "date_max": "2026-09-30",
+      "distinct_dates": 7578,
+      "observed_frequency": "daily",
+      "natural_key": [
+        "Date",
+        "Pipeline",
+        "Key Point",
+        "Direction Of Flow",
+        "Trade Type"
+      ],
+      "repeated_natural_key_rows": 0,
+      "duplicate_natural_key_groups": 0,
+      "pipelines": [
+        "TransCanada (TC) Canadian Mainline pipeline\r\n"
+      ],
+      "company_labels": [
+        "TransCanada PipeLines Limited (TCPL)"
+      ],
+      "key_points": [
+        "Chippawa",
+        "Eastern Triangle - NOL Receipts",
+        "Eastern Triangle - Parkway Deliveries",
+        "Eastern Triangle - Parkway Receipts",
+        "Emerson I",
+        "Emerson II",
+        "Iroquois",
+        "Niagara",
+        "Northern Ontario Line",
+        "Other US Northeast",
+        "Prairies",
+        "St Clair"
+      ],
+      "points_with_multiple_coordinate_pairs": 0,
+      "numeric_profile": {
+        "Capacity (1000 m3/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "Throughput (1000 m3/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 3,
+          "zero": 28639
+        },
+        "Throughput (GJ/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 3,
+          "zero": 28639
+        }
+      }
+    },
+    {
+      "resource_id": "foothills",
+      "file": "foothills.csv",
+      "download_url": "https://www.cer-rec.gc.ca/open/energy/throughput-capacity/foothills-throughput-and-capacity.csv",
+      "source_page": "https://open.canada.ca/data/en/dataset/dc343c43-a592-4a27-8ee7-c77df56afb34",
+      "publisher": "Canada Energy Regulator",
+      "retrieved_at_utc": "2026-11-24T20:37:41.916284+00:00",
+      "bytes": 2092670,
+      "sha256": "492a69b2c2729184c1a9958d27fc6df17754058956d8884d7daf8ce6a79e1dff",
+      "encoding": "utf-8-sig",
+      "observations": 15156,
+      "date_min": "2006-01-01",
+      "date_max": "2026-09-30",
+      "distinct_dates": 7578,
+      "observed_frequency": "daily",
+      "natural_key": [
+        "Date",
+        "Pipeline",
+        "Key Point",
+        "Direction Of Flow",
+        "Trade Type"
+      ],
+      "repeated_natural_key_rows": 0,
+      "duplicate_natural_key_groups": 0,
+      "pipelines": [
+        "Foothills system"
+      ],
+      "company_labels": [
+        "Foothills Pipe Lines Ltd."
+      ],
+      "key_points": [
+        "Kingsgate",
+        "Monchy"
+      ],
+      "points_with_multiple_coordinate_pairs": 0,
+      "numeric_profile": {
+        "Capacity (1000 m3/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "Throughput (1000 m3/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 4
+        },
+        "Throughput (GJ/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 4
+        }
+      }
+    },
+    {
+      "resource_id": "alliance",
+      "file": "alliance.csv",
+      "download_url": "https://www.cer-rec.gc.ca/open/energy/throughput-capacity/alliance-throughput-and-capacity.csv",
+      "source_page": "https://open.canada.ca/data/en/dataset/dc343c43-a592-4a27-8ee7-c77df56afb34",
+      "publisher": "Canada Energy Regulator",
+      "retrieved_at_utc": "2026-11-24T20:37:41.178944+00:00",
+      "bytes": 2244960,
+      "sha256": "1655814fca7794a66d56c761433aa923e7836b2db506d7f267d9131c405768b1",
+      "encoding": "utf-8-sig",
+      "observations": 15156,
+      "date_min": "2006-01-01",
+      "date_max": "2026-09-30",
+      "distinct_dates": 7578,
+      "observed_frequency": "daily",
+      "natural_key": [
+        "Date",
+        "Pipeline",
+        "Key Point",
+        "Direction Of Flow",
+        "Trade Type"
+      ],
+      "repeated_natural_key_rows": 0,
+      "duplicate_natural_key_groups": 0,
+      "pipelines": [
+        "Alliance pipeline"
+      ],
+      "company_labels": [
+        "Alliance Pipeline Ltd."
+      ],
+      "key_points": [
+        "Border",
+        "Zone 2"
+      ],
+      "points_with_multiple_coordinate_pairs": 0,
+      "numeric_profile": {
+        "Capacity (1000 m3/d)": {
+          "blank": 50,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "Throughput (1000 m3/d)": {
+          "blank": 50,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 26
+        },
+        "Throughput (GJ/d)": {
+          "blank": 50,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 26
+        }
+      }
+    },
+    {
+      "resource_id": "westcoast",
+      "file": "westcoast.csv",
+      "download_url": "https://www.cer-rec.gc.ca/open/energy/throughput-capacity/westcoast-throughput-and-capacity.csv",
+      "source_page": "https://open.canada.ca/data/en/dataset/dc343c43-a592-4a27-8ee7-c77df56afb34",
+      "publisher": "Canada Energy Regulator",
+      "retrieved_at_utc": "2026-11-24T20:38:02.005551+00:00",
+      "bytes": 7711358,
+      "sha256": "2955ca834257224dc23628335ba3055221428732f72707f2fd12bec1879977dc",
+      "encoding": "utf-8-sig",
+      "observations": 51071,
+      "date_min": "2006-01-01",
+      "date_max": "2026-09-30",
+      "distinct_dates": 7578,
+      "observed_frequency": "daily",
+      "natural_key": [
+        "Date",
+        "Pipeline",
+        "Key Point",
+        "Direction Of Flow",
+        "Trade Type"
+      ],
+      "repeated_natural_key_rows": 0,
+      "duplicate_natural_key_groups": 0,
+      "pipelines": [
+        "Westcoast or BC Pipeline system\r\n"
+      ],
+      "company_labels": [
+        "Westcoast Energy Inc."
+      ],
+      "key_points": [
+        "FortisBC Lower Mainland",
+        "Huntingdon Export",
+        "Kingsvale",
+        "NOVA/Gordondale",
+        "Sunset Creek"
+      ],
+      "points_with_multiple_coordinate_pairs": 0,
+      "numeric_profile": {
+        "Capacity (1000 m3/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "Throughput (1000 m3/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 2,
+          "zero": 17215
+        },
+        "Throughput (GJ/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 2,
+          "zero": 17273
+        }
+      }
+    },
+    {
+      "resource_id": "tqm",
+      "file": "tqm.csv",
+      "download_url": "https://www.cer-rec.gc.ca/open/energy/throughput-capacity/tqm-throughput-and-capacity.csv",
+      "source_page": "https://open.canada.ca/data/en/dataset/dc343c43-a592-4a27-8ee7-c77df56afb34",
+      "publisher": "Canada Energy Regulator",
+      "retrieved_at_utc": "2026-11-24T20:38:02.369553+00:00",
+      "bytes": 2824587,
+      "sha256": "b7366c5f879ff3a7cd56aa401f3b10d4c1f51b340a46bf772d416d4e99dc3a57",
+      "encoding": "utf-8-sig",
+      "observations": 15156,
+      "date_min": "2006-01-01",
+      "date_max": "2026-09-30",
+      "distinct_dates": 7578,
+      "observed_frequency": "daily",
+      "natural_key": [
+        "Date",
+        "Pipeline",
+        "Key Point",
+        "Direction Of Flow",
+        "Trade Type"
+      ],
+      "repeated_natural_key_rows": 0,
+      "duplicate_natural_key_groups": 0,
+      "pipelines": [
+        "Trans Québec & Maritimes (TQM) pipeline\r\n"
+      ],
+      "company_labels": [
+        "Trans Québec and Maritimes Pipeline Inc."
+      ],
+      "key_points": [
+        "East Hereford",
+        "Saint Lazare",
+        "Saint Lazare + Sabrevois"
+      ],
+      "points_with_multiple_coordinate_pairs": 0,
+      "numeric_profile": {
+        "Capacity (1000 m3/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "Throughput (1000 m3/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 247
+        },
+        "Throughput (GJ/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 247
+        }
+      }
+    },
+    {
+      "resource_id": "mnp",
+      "file": "mnp.csv",
+      "download_url": "https://www.cer-rec.gc.ca/open/energy/throughput-capacity/mnp-throughput-and-capacity.csv",
+      "source_page": "https://open.canada.ca/data/en/dataset/dc343c43-a592-4a27-8ee7-c77df56afb34",
+      "publisher": "Canada Energy Regulator",
+      "retrieved_at_utc": "2026-11-24T20:38:04.516921+00:00",
+      "bytes": 3103668,
+      "sha256": "e630e8ead54f45f23796b158f34e424fd4fe52406844e93fba621fb4a3fd107e",
+      "encoding": "utf-8-sig",
+      "observations": 15156,
+      "date_min": "2006-01-01",
+      "date_max": "2026-09-30",
+      "distinct_dates": 7578,
+      "observed_frequency": "daily",
+      "natural_key": [
+        "Date",
+        "Pipeline",
+        "Key Point",
+        "Direction Of Flow",
+        "Trade Type"
+      ],
+      "repeated_natural_key_rows": 0,
+      "duplicate_natural_key_groups": 0,
+      "pipelines": [
+        "Maritimes & Northeast Pipeline (M&NP) system\r\n"
+      ],
+      "company_labels": [
+        "Maritimes & Northeast Pipeline Management Ltd."
+      ],
+      "key_points": [
+        "Baileyville, Ma. / St. Stephen N.B."
+      ],
+      "points_with_multiple_coordinate_pairs": 0,
+      "numeric_profile": {
+        "Capacity (1000 m3/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "Throughput (1000 m3/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 7134
+        },
+        "Throughput (GJ/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 6915
+        }
+      }
+    },
+    {
+      "resource_id": "brunswick",
+      "file": "brunswick.csv",
+      "download_url": "https://www.cer-rec.gc.ca/open/energy/throughput-capacity/brunswick-throughput-and-capacity.csv",
+      "source_page": "https://open.canada.ca/data/en/dataset/dc343c43-a592-4a27-8ee7-c77df56afb34",
+      "publisher": "Canada Energy Regulator",
+      "retrieved_at_utc": "2026-11-24T20:38:02.469555+00:00",
+      "bytes": 30234,
+      "sha256": "14d8b06acd23736e8a0bf29ea37413a2ae096d9190998869acccf2ed08f1f444",
+      "encoding": "utf-8-sig",
+      "observations": 206,
+      "date_min": "2009-07-01",
+      "date_max": "2026-09-01",
+      "distinct_dates": 206,
+      "observed_frequency": "monthly",
+      "natural_key": [
+        "Date",
+        "Pipeline",
+        "Key Point",
+        "Direction Of Flow",
+        "Trade Type"
+      ],
+      "repeated_natural_key_rows": 0,
+      "duplicate_natural_key_groups": 0,
+      "pipelines": [
+        "Brunswick pipeline\r\n"
+      ],
+      "company_labels": [
+        "Emera Brunswick Pipeline Company Ltd."
+      ],
+      "key_points": [
+        "system"
+      ],
+      "points_with_multiple_coordinate_pairs": 0,
+      "numeric_profile": {
+        "Capacity (1000 m3/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "Throughput (1000 m3/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "Throughput (GJ/d)": {
+          "blank": 0,
+          "invalid_nonfinite": 0,
+          "negative": 0,
+          "zero": 0
+        }
+      }
+    },
+    {
+      "resource_id": "incident-map",
+      "kind": "incident_public_map_extract",
+      "file": "incidents_map.csv",
+      "download_url": "https://www.cer-rec.gc.ca/open/incident/pipeline-incidents-data.csv",
+      "source_page": "https://open.canada.ca/data/en/dataset/fd17f08f-f14d-433f-91df-c90a34e1e9a6",
+      "publisher": "Canada Energy Regulator",
+      "retrieved_at_utc": "2026-11-24T20:42:37.987508+00:00",
+      "bytes": 581952,
+      "sha256": "cf5132291da8113dd2e1707251666150e8454fc44f1eb30d95806b8fbd0e488e",
+      "encoding": "cp1252",
+      "observations": 2039,
+      "columns": [
+        "Incident Number",
+        "Incident Types",
+        "Reported Date",
+        "Nearest Populated Centre",
+        "Province",
+        "Company",
+        "Status",
+        "Latitude",
+        "Longitude",
+        "Approximate Volume Released (m3)",
+        "Substance",
+        "Release Type",
+        "Significant",
+        "Year",
+        "What Happened",
+        "Why It Happened"
+      ],
+      "notes": "Separate published incident extract for ID/field reconciliation. Do not assume identical coverage to the comprehensive extract."
+    }
+  ],
+  "interpretation_notes": [
+    "Units follow CSV headers: capacity and volumetric throughput in thousand cubic metres per day; energy throughput in gigajoules per day.",
+    "The gas dictionary capacity description says gigajoules per day while its column header says 1000 m3/d. Preserve this source metadata inconsistency; never mix the energy and volume columns.",
+    "Brunswick is an observed monthly series although the gas family is described generally as daily. It must not be counted as daily completeness or summed as daily volume without a documented monthly-average assumption.",
+    "Values at successive or interconnected points can represent the same gas; arbitrary sums across key points are not Canadian production or unique physical throughput.",
+    "CER explains reported capacity can be an estimate; throughput above that estimate does not establish a safety or regulatory breach.",
+    "Current legal-entity labels in throughput data differ from historical incident labels. No incident-to-key-point relationship is inferred from company names."
+  ]
+}

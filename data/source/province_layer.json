@@ -1,0 +1,1201 @@
+{
+ "currentVersion": 10.81,
+ "id": 2,
+ "name": "SM_C",
+ "type": "Feature Layer",
+ "description": "Point features file created to generate boundary polygons for use in small scale.",
+ "geometryType": "esriGeometryPolygon",
+ "sourceSpatialReference": {"wkt": "PROJCS[\"NAD_1983_Lambert_Conformal_Conic\",GEOGCS[\"GCS_North_American_1983\",DATUM[\"D_North_American_1983\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Lambert_Conformal_Conic\"],PARAMETER[\"False_Easting\",0.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",-95.0],PARAMETER[\"Standard_Parallel_1\",49.0],PARAMETER[\"Standard_Parallel_2\",77.0],PARAMETER[\"Latitude_Of_Origin\",49.0],UNIT[\"Meter\",1.0]]"},
+ "copyrightText": "",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 0,
+ "maxScale": 17500001,
+ "drawingInfo": {
+  "renderer": {
+   "type": "uniqueValue",
+   "field1": "POLITICALDIV",
+   "field2": null,
+   "field3": null,
+   "defaultSymbol": null,
+   "defaultLabel": null,
+   "uniqueValueInfos": [
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       255,
+       216,
+       173,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        209,
+        116,
+        73,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "2",
+     "label": "1",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       255,
+       216,
+       173,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        209,
+        116,
+        73,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "3",
+     "label": "1",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       255,
+       216,
+       173,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        209,
+        116,
+        73,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "4",
+     "label": "1",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       255,
+       216,
+       173,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        209,
+        116,
+        73,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "5",
+     "label": "1",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       232,
+       178,
+       139,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        209,
+        116,
+        73,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "6",
+     "label": "2",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       232,
+       178,
+       139,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        209,
+        116,
+        73,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "7",
+     "label": "2",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       232,
+       178,
+       139,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        209,
+        116,
+        73,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "9",
+     "label": "2",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       209,
+       116,
+       73,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        209,
+        116,
+        73,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "11",
+     "label": "3",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       209,
+       116,
+       73,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        209,
+        116,
+        73,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "12",
+     "label": "3",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       209,
+       116,
+       73,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        209,
+        116,
+        73,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "13",
+     "label": "3",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       186,
+       55,
+       19,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        209,
+        116,
+        73,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "1",
+     "label": "4",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       186,
+       55,
+       19,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        209,
+        116,
+        73,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "8",
+     "label": "4",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       186,
+       55,
+       19,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        209,
+        116,
+        73,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "10",
+     "label": "4",
+     "description": ""
+    }
+   ],
+   "fieldDelimiter": ","
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": true,
+ "extent": {
+  "xmin": -2750565.143300003,
+  "ymin": -936638.5000000009,
+  "xmax": 3583872.5000000005,
+  "ymax": 4659267,
+  "spatialReference": {
+   "wkid": 3978,
+   "latestWkid": 3978
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "COUNTRY",
+ "typeIdField": null,
+ "subtypeFieldName": null,
+ "subtypeField": null,
+ "defaultSubtypeCode": null,
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "COUNTRY",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "Country",
+   "domain": {
+    "type": "codedValue",
+    "name": "Country",
+    "description": "A list of countries.",
+    "codedValues": [
+     {
+      "name": "Canada",
+      "code": 1
+     },
+     {
+      "name": "United States",
+      "code": 2
+     },
+     {
+      "name": "Mexico",
+      "code": 3
+     },
+     {
+      "name": "Denmark",
+      "code": 4
+     },
+     {
+      "name": "Finland",
+      "code": 5
+     },
+     {
+      "name": "Iceland",
+      "code": 7
+     },
+     {
+      "name": "Norway",
+      "code": 8
+     },
+     {
+      "name": "Sweden",
+      "code": 9
+     },
+     {
+      "name": "United Kingdom",
+      "code": 10
+     },
+     {
+      "name": "Foreign Area",
+      "code": 999
+     },
+     {
+      "name": "Russia",
+      "code": 11
+     },
+     {
+      "name": "France",
+      "code": 12
+     },
+     {
+      "name": "Ireland",
+      "code": 13
+     },
+     {
+      "name": "Ocean",
+      "code": -9
+     },
+     {
+      "name": "Antigua and Barbuda",
+      "code": 17
+     },
+     {
+      "name": "Argentina",
+      "code": 18
+     },
+     {
+      "name": "Bahamas",
+      "code": 20
+     },
+     {
+      "name": "Barbados",
+      "code": 21
+     },
+     {
+      "name": "Belize",
+      "code": 22
+     },
+     {
+      "name": "Bolivia",
+      "code": 24
+     },
+     {
+      "name": "Brazil",
+      "code": 26
+     },
+     {
+      "name": "Chile",
+      "code": 29
+     },
+     {
+      "name": "Colombia",
+      "code": 31
+     },
+     {
+      "name": "Costa Rica",
+      "code": 32
+     },
+     {
+      "name": "Cuba",
+      "code": 33
+     },
+     {
+      "name": "Dominica",
+      "code": 35
+     },
+     {
+      "name": "Dominican Republic",
+      "code": 36
+     },
+     {
+      "name": "Ecuador",
+      "code": 37
+     },
+     {
+      "name": "El Salvador",
+      "code": 38
+     },
+     {
+      "name": "Grenada",
+      "code": 42
+     },
+     {
+      "name": "Guatemala",
+      "code": 44
+     },
+     {
+      "name": "Guyana",
+      "code": 45
+     },
+     {
+      "name": "Haiti",
+      "code": 46
+     },
+     {
+      "name": "Honduras",
+      "code": 47
+     },
+     {
+      "name": "Jamaica",
+      "code": 48
+     },
+     {
+      "name": "Nicaragua",
+      "code": 52
+     },
+     {
+      "name": "Panama",
+      "code": 53
+     },
+     {
+      "name": "Paraguay",
+      "code": 54
+     },
+     {
+      "name": "Peru",
+      "code": 55
+     },
+     {
+      "name": "Saint Lucia",
+      "code": 60
+     },
+     {
+      "name": "Suriname",
+      "code": 66
+     },
+     {
+      "name": "Trinidad and Tobago",
+      "code": 67
+     },
+     {
+      "name": "Uruguay",
+      "code": 70
+     },
+     {
+      "name": "Venezuela",
+      "code": 71
+     },
+     {
+      "name": "Saint Kitts and Nevis",
+      "code": 73
+     },
+     {
+      "name": "Saint Vincent and the Grenadines",
+      "code": 75
+     },
+     {
+      "name": "Disputed",
+      "code": 9999
+     },
+     {
+      "name": "Netherlands",
+      "code": 50
+     }
+    ],
+    "mergePolicy": "esriMPTDefaultValue",
+    "splitPolicy": "esriSPTDefaultValue"
+   }
+  },
+  {
+   "name": "SHAPE",
+   "type": "esriFieldTypeGeometry",
+   "alias": "SHAPE",
+   "domain": null
+  },
+  {
+   "name": "POLITICALDIV",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "POLITICALDIV",
+   "domain": {
+    "type": "codedValue",
+    "name": "PoliticalDiv",
+    "description": "A list of political divisions (states, provinces, territories, etc.).",
+    "codedValues": [
+     {
+      "name": "Not Applicable",
+      "code": -999
+     },
+     {
+      "name": "Alberta",
+      "code": 1
+     },
+     {
+      "name": "British Columbia",
+      "code": 2
+     },
+     {
+      "name": "Manitoba",
+      "code": 3
+     },
+     {
+      "name": "New Brunswick",
+      "code": 4
+     },
+     {
+      "name": "Newfoundland and Labrador",
+      "code": 5
+     },
+     {
+      "name": "Northwest Territories",
+      "code": 6
+     },
+     {
+      "name": "Nova Scotia",
+      "code": 7
+     },
+     {
+      "name": "Nunavut",
+      "code": 8
+     },
+     {
+      "name": "Ontario",
+      "code": 9
+     },
+     {
+      "name": "Prince Edward Island",
+      "code": 10
+     },
+     {
+      "name": "Quebec",
+      "code": 11
+     },
+     {
+      "name": "Saskatchewan",
+      "code": 12
+     },
+     {
+      "name": "Yukon",
+      "code": 13
+     },
+     {
+      "name": "Puerto Rico",
+      "code": 14
+     },
+     {
+      "name": "District of Columbia",
+      "code": 16
+     },
+     {
+      "name": "U.S. Virgin Islands",
+      "code": 15
+     },
+     {
+      "name": "Alabama",
+      "code": 17
+     },
+     {
+      "name": "Alaska",
+      "code": 18
+     },
+     {
+      "name": "Arizona",
+      "code": 19
+     },
+     {
+      "name": "Arkansas",
+      "code": 20
+     },
+     {
+      "name": "California",
+      "code": 21
+     },
+     {
+      "name": "Colorado",
+      "code": 22
+     },
+     {
+      "name": "Connecticut",
+      "code": 23
+     },
+     {
+      "name": "Delaware",
+      "code": 24
+     },
+     {
+      "name": "Florida",
+      "code": 25
+     },
+     {
+      "name": "Georgia",
+      "code": 26
+     },
+     {
+      "name": "Hawaii",
+      "code": 27
+     },
+     {
+      "name": "Idaho",
+      "code": 28
+     },
+     {
+      "name": "Illinois",
+      "code": 29
+     },
+     {
+      "name": "Indiana",
+      "code": 30
+     },
+     {
+      "name": "Iowa",
+      "code": 31
+     },
+     {
+      "name": "Kansas",
+      "code": 32
+     },
+     {
+      "name": "Kentucky",
+      "code": 33
+     },
+     {
+      "name": "Louisiana",
+      "code": 34
+     },
+     {
+      "name": "Maine",
+      "code": 35
+     },
+     {
+      "name": "Maryland",
+      "code": 36
+     },
+     {
+      "name": "Massachusetts",
+      "code": 37
+     },
+     {
+      "name": "Michigan",
+      "code": 38
+     },
+     {
+      "name": "Minnesota",
+      "code": 39
+     },
+     {
+      "name": "Mississippi",
+      "code": 40
+     },
+     {
+      "name": "Missouri",
+      "code": 41
+     },
+     {
+      "name": "Montana",
+      "code": 42
+     },
+     {
+      "name": "Nebraska",
+      "code": 43
+     },
+     {
+      "name": "Nevada",
+      "code": 44
+     },
+     {
+      "name": "New Hampshire",
+      "code": 45
+     },
+     {
+      "name": "New Jersey",
+      "code": 46
+     },
+     {
+      "name": "New Mexico",
+      "code": 47
+     },
+     {
+      "name": "New York",
+      "code": 48
+     },
+     {
+      "name": "North Carolina",
+      "code": 49
+     },
+     {
+      "name": "North Dakota",
+      "code": 50
+     },
+     {
+      "name": "Ohio",
+      "code": 51
+     },
+     {
+      "name": "Oklahoma",
+      "code": 52
+     },
+     {
+      "name": "Oregon",
+      "code": 53
+     },
+     {
+      "name": "Pennsylvania",
+      "code": 54
+     },
+     {
+      "name": "Rhode Island",
+      "code": 55
+     },
+     {
+      "name": "South Carolina",
+      "code": 56
+     },
+     {
+      "name": "South Dakota",
+      "code": 57
+     },
+     {
+      "name": "Tennessee",
+      "code": 58
+     },
+     {
+      "name": "Texas",
+      "code": 59
+     },
+     {
+      "name": "Utah",
+      "code": 60
+     },
+     {
+      "name": "Vermont",
+      "code": 61
+     },
+     {
+      "name": "Virginia",
+      "code": 62
+     },
+     {
+      "name": "Washington",
+      "code": 63
+     },
+     {
+      "name": "West Virginia",
+      "code": 64
+     },
+     {
+      "name": "Wisconsin",
+      "code": 65
+     },
+     {
+      "name": "Wyoming",
+      "code": 66
+     },
+     {
+      "name": "Aguascalientes",
+      "code": 68
+     },
+     {
+      "name": "Baja California",
+      "code": 69
+     },
+     {
+      "name": "Baja California Sur",
+      "code": 70
+     },
+     {
+      "name": "Campeche",
+      "code": 71
+     },
+     {
+      "name": "Chiapas",
+      "code": 72
+     },
+     {
+      "name": "Chihuahua",
+      "code": 73
+     },
+     {
+      "name": "Coahuila",
+      "code": 74
+     },
+     {
+      "name": "Colima",
+      "code": 75
+     },
+     {
+      "name": "Durango",
+      "code": 76
+     },
+     {
+      "name": "Guanajuato",
+      "code": 77
+     },
+     {
+      "name": "Guerrero",
+      "code": 78
+     },
+     {
+      "name": "Hidalgo",
+      "code": 79
+     },
+     {
+      "name": "Jalisco",
+      "code": 80
+     },
+     {
+      "name": "Michoacán",
+      "code": 82
+     },
+     {
+      "name": "Morelos",
+      "code": 83
+     },
+     {
+      "name": "Nayarit",
+      "code": 84
+     },
+     {
+      "name": "Nuevo León",
+      "code": 85
+     },
+     {
+      "name": "Oaxaca",
+      "code": 86
+     },
+     {
+      "name": "Puebla",
+      "code": 87
+     },
+     {
+      "name": "Querétaro",
+      "code": 88
+     },
+     {
+      "name": "Quintana Roo",
+      "code": 89
+     },
+     {
+      "name": "San Luis Potosí",
+      "code": 90
+     },
+     {
+      "name": "Sinaloa",
+      "code": 91
+     },
+     {
+      "name": "Sonora",
+      "code": 92
+     },
+     {
+      "name": "Tabasco",
+      "code": 93
+     },
+     {
+      "name": "Tamaulipas",
+      "code": 94
+     },
+     {
+      "name": "Tlaxcala",
+      "code": 95
+     },
+     {
+      "name": "Veracruz",
+      "code": 96
+     },
+     {
+      "name": "Yucatán",
+      "code": 97
+     },
+     {
+      "name": "Zacatecas",
+      "code": 98
+     },
+     {
+      "name": "Faroe Islands",
+      "code": 101
+     },
+     {
+      "name": "Greenland",
+      "code": 102
+     },
+     {
+      "name": "England",
+      "code": 104
+     },
+     {
+      "name": "Scotland",
+      "code": 105
+     },
+     {
+      "name": "Wales",
+      "code": 106
+     },
+     {
+      "name": "Northern Ireland",
+      "code": 107
+     },
+     {
+      "name": "Bermuda",
+      "code": 108
+     },
+     {
+      "name": "Turks and Caicos Islands",
+      "code": 109
+     },
+     {
+      "name": "Cayman Islands",
+      "code": 110
+     },
+     {
+      "name": "British Virgin Islands",
+      "code": 111
+     },
+     {
+      "name": "Anguilla",
+      "code": 112
+     },
+     {
+      "name": "Montserrat",
+      "code": 113
+     },
+     {
+      "name": "Saint Pierre and Miquelon",
+      "code": 120
+     },
+     {
+      "name": "Saint Martin",
+      "code": 121
+     },
+     {
+      "name": "Saint Barthélemy",
+      "code": 122
+     },
+     {
+      "name": "Guadeloupe",
+      "code": 123
+     },
+     {
+      "name": "Martinique",
+      "code": 124
+     },
+     {
+      "name": "French Guiana",
+      "code": 125
+     },
+     {
+      "name": "Chukotka",
+      "code": 130
+     },
+     {
+      "name": "Kamchatka",
+      "code": 131
+     },
+     {
+      "name": "Magadan",
+      "code": 132
+     },
+     {
+      "name": "Sakha",
+      "code": 133
+     },
+     {
+      "name": "Unknown",
+      "code": 999
+     },
+     {
+      "name": "Multiple",
+      "code": 9999
+     },
+     {
+      "name": "Federal District",
+      "code": 134
+     },
+     {
+      "name": "Bonaire",
+      "code": 114
+     },
+     {
+      "name": "Falkland Islands",
+      "code": 115
+     },
+     {
+      "name": "Saba",
+      "code": 116
+     },
+     {
+      "name": "Sint Eustatius",
+      "code": 117
+     },
+     {
+      "name": "Aruba",
+      "code": 118
+     },
+     {
+      "name": "Curaçao",
+      "code": 119
+     },
+     {
+      "name": "Sint Maarten",
+      "code": 126
+     },
+     {
+      "name": "Mexico",
+      "code": 81
+     }
+    ],
+    "mergePolicy": "esriMPTDefaultValue",
+    "splitPolicy": "esriSPTDefaultValue"
+   }
+  },
+  {
+   "name": "SHAPE_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "SHAPE_Length",
+   "domain": null
+  },
+  {
+   "name": "SHAPE_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "SHAPE_Area",
+   "domain": null
+  }
+ ],
+ "geometryField": {
+  "name": "SHAPE",
+  "type": "esriFieldTypeGeometry",
+  "alias": "SHAPE"
+ },
+ "indexes": [
+  {
+   "name": "FDO_OBJECTID",
+   "fields": "OBJECTID",
+   "isAscending": true,
+   "isUnique": true,
+   "description": ""
+  },
+  {
+   "name": "FDO_SHAPE",
+   "fields": "SHAPE",
+   "isAscending": true,
+   "isUnique": false,
+   "description": ""
+  }
+ ],
+ "subtypes": [],
+ "relationships": [],
+ "canModifyLayer": true,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, geoJSON",
+ "isDataVersioned": false,
+ "ownershipBasedAccessControlForFeatures": {"allowOthersToQuery": true},
+ "useStandardizedQueries": true,
+ "advancedQueryCapabilities": {
+  "useStandardizedQueries": true,
+  "supportsStatistics": true,
+  "supportsHavingClause": true,
+  "supportsCountDistinct": true,
+  "supportsOrderBy": true,
+  "supportsDistinct": true,
+  "supportsPagination": true,
+  "supportsTrueCurve": true,
+  "supportsReturningQueryExtent": true,
+  "supportsQueryWithDistance": true,
+  "supportsSqlExpression": true
+ },
+ "supportsDatumTransformation": true,
+ "supportsCoordinatesQuantization": true,
+ "serviceItemId": "1ece65c178064401b000847a89b3cced"
+}

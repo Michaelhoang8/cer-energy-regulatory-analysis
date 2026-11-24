@@ -1,0 +1,37 @@
+[
+  {
+    "file": "ngtl.csv",
+    "url": "https://www.cer-rec.gc.ca/open/energy/throughput-capacity/ngtl-throughput-and-capacity.csv",
+    "bytes": 11814960,
+    "sha256": "ade7644efccdf9e8e994a96ba33b5e51970edad27951c72118bbe72bbe7df815",
+    "retrieved_at": "2026-11-24T20:36:11.590727+00:00"
+  },
+  {
+    "file": "gas_dictionary.csv",
+    "url": "https://www.cer-rec.gc.ca/open/energy/throughput-capacity/natural-gas-data-dictionary.csv",
+    "bytes": 1230,
+    "sha256": "766c17ceb54344c81dd97ebbab653fea12bb701bae16a0bb5a9f89018ff498ff",
+    "retrieved_at": "2026-11-24T20:36:00.565383+00:00"
+  },
+  {
+    "file": "incidents.csv",
+    "url": "https://www.cer-rec.gc.ca/open/incident/pipeline-incidents-comprehensive-data.csv",
+    "bytes": 2459669,
+    "sha256": "2848bf2562a6e3233affac8c7a05ad72a259c8047c66d72947a770244b159e34",
+    "retrieved_at": "2026-11-24T20:36:03.891011+00:00"
+  },
+  {
+    "file": "incident_dictionary.csv",
+    "url": "https://www.cer-rec.gc.ca/open/incident/pipeline-incidents-data-dictionary.csv",
+    "bytes": 15407,
+    "sha256": "170216d141b0778fe0ce5d010b118378789c838ea01ca72fac63cc656af3a3dc",
+    "retrieved_at": "2026-11-24T20:36:00.646898+00:00"
+  },
+  {
+    "file": "incident_methodology.pdf",
+    "url": "https://apps2.cer-rec.gc.ca/pipeline-incidents/data/Incident%20Data%20Methodology_EN.pdf",
+    "bytes": 253385,
+    "sha256": "3b13337da8de1630a2d53361fe35c85d3a1b44d66050c43c11fbc34102e20678",
+    "retrieved_at": "2026-11-24T20:36:01.046418+00:00"
+  }
+]
